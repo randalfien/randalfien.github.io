@@ -1,0 +1,304 @@
+/*
+ * Globals
+ */
+
+/* Links */
+li > a {
+    color:#333;
+    text-decoration: none;
+}
+a:focus
+{
+    color: #333333;
+    text-decoration: underline;
+}
+a:hover
+{
+    color: #174187;
+    text-decoration: underline;
+}
+
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  background-color: #fff;
+}
+
+h1 h2 h3{
+    font-weight: 700;
+}
+
+h2 {
+    width: 100%;
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+    height: 100%;
+ //   background-color: transparent;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14pt;
+    position: relative;
+    min-width:550px;
+}
+body {
+    color: #333333;
+    margin: 0;
+}
+
+.content {
+    text-align: center;
+    z-index: 2;
+    position: absolute;
+}
+
+.description{
+    clear: both;
+    max-width: 700px;
+    display: inline-block;
+}
+
+.container{
+    clear:both;
+    padding: 0 30px;
+}
+
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Padding for spacing */
+.inner {
+    padding: 30px;
+    padding-top: 0;
+}
+
+.contact{
+    clear:both;
+}
+
+/*
+ * Header
+ */
+.masthead-brand {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 5ex;
+}
+
+ul {
+    padding: 0;
+    font-size: 3ex;
+}
+
+.masthead-nav > li {
+  display: inline-block;
+  text-transform: uppercase;
+}
+.masthead-nav > li + li {
+  margin-left: 3ex;
+}
+.masthead-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-weight: bold;
+}
+
+
+@media (min-width: 1100px) {
+  .masthead-brand {
+    float: left;
+  }
+  .masthead-nav {
+    float: right;
+  }
+}
+
+.lang {
+    font-size: 1ex;
+}
+
+.divlang{
+    position:absolute;
+    top:0;
+}
+
+
+.eng{
+
+}
+
+/*
+ * Cover
+ */
+
+.cover {
+  padding: 0 20px;
+}
+.cover .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+/*
+ * Project
+ */
+
+.projects{
+    padding: 30px 30px 0 30px;
+}
+
+.projects > h2{
+    margin:0;
+}
+
+.project {
+    padding: 15px 0;
+    clear:both;
+    font-size: 12pt;
+    display: inline-block;
+}
+
+@media (min-width: 920px) {
+    .project {
+        width: 1100px;
+    }
+}
+
+
+
+.proj-description{
+    padding-top: 15px;
+    max-width: 550px;
+}
+
+.proj-tech {
+    padding-top: 15px;
+}
+
+.proj {
+    overflow: hidden;
+    text-align: left;
+    padding: 0 7px;
+}
+@media (min-width: 600px) {
+    .proj {
+        padding: 0;
+    }
+}
+
+.proj-web{
+    text-decoration: underline;
+    font-weight: 700;
+    padding-bottom: 7px;
+    display: inline;
+}
+
+.proj-links{
+    bottom: 0;
+    padding-top: 15px;
+}
+
+.playstore {
+    display: inline;
+    padding-left: 15px;
+}
+
+.appstore{
+    display: inline;
+    padding-left: 15px;
+}
+
+.proj-date{
+    color: #999;
+}
+
+.project > img {
+    margin-right: 15px;
+}
+@media (min-width: 920px) {
+    .project > img {
+        float: left;
+    }
+}
+.proj > h3 {
+    margin:0;
+    font-size: 2em;
+}
+
+.atsign{
+    width:16px;
+    height:15px;
+    background-image: url('../img/atsign.png');
+    background-position-y: 1px;
+    display:inline-block;
+}
+.contact{
+    padding: 30px;
+}
+
+.contact a{
+    display: block;
+}
+
+a{
+    text-decoration: underline;
+    color: #1e5dd3;
+    font-weight: 700;
+}
+
+.contact a:hover{
+    display: block;
+     text-decoration: underline;
+    color: #112b5b;
+    font-weight: 700;
+}
+
+h2{
+   font-size: 3em;
+}
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px) {
+  /* Pull out the header and footer */
+  .masthead {
+    top: 0;
+  }
+  .mastfoot {
+    bottom: 0;
+  }
+
+  /* Handle the widths */
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
+}
+
+#footer {
+    text-align: right;
+    margin-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    font-size: 12pt;
+}
+
+canvas {
+    top: 0;
+	//background: #c6dfff;
+	position: fixed;
+    z-index: 1;
+}
+

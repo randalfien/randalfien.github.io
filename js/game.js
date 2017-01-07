@@ -52,7 +52,7 @@ window.onload = function() {
 
     body.addEventListener('mousemove', function(evt) {
         if( evt.clientX < 360 ) {
-            if( Date.now()-now > /*3000*/50) {
+            if( Date.now()-now > 8000) {
                 then = Date.now();
                 body.removeEventListener('mousemove', arguments.callee);
                 start();

@@ -63,7 +63,9 @@
             if (cc.sys.isMobile) {
                 if (settings.orientation === 'landscape') {
                     cc.view.setOrientation(cc.macro.ORIENTATION_LANDSCAPE);
-                    screen.orientation.lock('landscape');
+                    try{
+                      screen.orientation.lock('landscape');
+                    }catch(e){}
                 }
                 else if (settings.orientation === 'portrait') {
                     cc.view.setOrientation(cc.macro.ORIENTATION_PORTRAIT);

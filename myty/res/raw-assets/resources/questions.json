@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "difficulty": 0,
+    "place": 0,
+    "smileyType":1,
+    "headline": "Sankce",
+    "tree": {
+      "text": "Sankce jsou nesmysl, kvůli takovým jako vy tady lidé nemají práci.",
+      "answers": [
+        {
+          "text": "Ano, sankce škodí naší ekonomice.",
+          "tree": {
+            "text": "Sankce jsou beztak bezdůvodné.",
+            "answers": [
+              {
+                "text": "Jsou k ničemu, zrušme je.",
+                "evaluation": 0
+              }, {
+                "text": "Sankce trestají Rusko za agresi vůči Ukrajině.",
+                "evaluation": 1
+              }
+            ]
+          }
+        }, {
+          "text": "To spolu vůbec nesouvisí.",
+          "evaluation": 2
+        }, {
+          "text": "S tím my přece nic neuděláme.",
+          "evaluation": 3
+        }
+      ]
+    },
+    "evaluations": [
+      {
+        "id": 0,
+        "score": 0,
+        "type":"eval_0_2",
+        "text": "Sankce se naší ekonomiky výrazněji nedotknou. Rusko tvoří méně než dvě procenta našeho vývozu. Nejvíce vyvážíme do sousedních zemí.",
+        "headline": "Sankce"
+      }, {
+        "id": 1,
+        "score": 1,
+        "type":"standard",
+        "text": "Sankce byli zavedeny v reakci na anexi Krymu. Sankce se naší ekonomiky výrazněji nedotknou. Rusko tvoří méně než dvě procenta našeho vývozu.",
+        "headline": "Sankce"
+      }, {
+        "id": 2,
+        "score": 2,
+        "text": "Ano, sankce na naší ekonomiku nemají větší vliv.",
+        "type":"eval_0_2",
+        "headline": "Sankce"
+      }, {
+        "id": 3,
+        "score": 0,
+        "text": "K sankcím vůči Rusku jsme se dobrovolně zavázali kvůli ruské agresi na Ukrajině. Sankce ale můžeme vypovědět, navzdory našim partnerům v EU. Na českou ekonomiku mají sankce mizivý vliv.",
+        "type":"standard",
+        "headline": "Sankce"
+      }
+    ]
+  }
+]

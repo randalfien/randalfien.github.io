@@ -38,6 +38,54 @@ canvas {
   background-color: rgba(0, 0, 0, 0);
 }
 
+@media all and (max-width: 480px) {
+    canvas {
+        width: 480px;
+        height: 300px;
+    }
+    
+    #GameDiv {
+      width: 480px;
+      height: 300px;
+    }
+}
+
+@media all and (max-width: 800px) and (min-width: 481px){
+    canvas {
+        width: 640px;
+        height: 400px;
+    }
+    
+    #GameDiv {
+      width: 640px;
+      height: 400px;
+    }
+}
+
+@media all and (max-width: 1280px) and (min-width: 801px) {
+    canvas {
+        width: 800px;
+        height: 480px;
+    }
+    
+    #GameDiv {
+      width: 800px;
+      height: 450px;
+    }
+}
+
+@media screen and (min-width: 1281px) {
+    canvas {
+        width: 1280px;
+        height: 800px;
+    }
+    
+    #GameDiv {
+      width: 1280px;
+      height: 800px;
+    }
+}
+
 a:link, a:visited {
   color: #000;
 }
@@ -52,8 +100,6 @@ p.header {
 
 p.footer {
   font-size: x-small;
-  position: absolute;
-  bottom:0;left:0;right:0;
 }
 
 #splash {
@@ -63,7 +109,7 @@ p.footer {
   width: 100%;
   height: 100%;
 
-  background: #FFFFFF url(./splash.png) no-repeat center;
+  background: #FFF url(./splash.png) no-repeat center;
   background-size: 40%;
 }
 
@@ -86,7 +132,7 @@ p.footer {
     border-radius: 3px;
     box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
     transition: width .4s ease-in-out; 
-    background-color: #34c2e3;    
+    background-color: #AAA;    
 }
 
 .stripes span {
@@ -103,14 +149,12 @@ p.footer {
 }
 
 h1 {
-    color: #FFF;
-    padding-top: 20px;
+    color: #444;
+    visibility: hidden;
 }
 
 #GameDiv {
-    width: 1200px;
-    height: 800px;
-    background: white;
     margin: 0 auto;
-    position: relative;
+    background: white;
+    position:relative;
 }

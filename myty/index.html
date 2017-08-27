@@ -4,7 +4,15 @@
   <meta charset="utf-8">
 
   <title>Factman</title>
-
+  
+  <!-- You can use Open Graph tags to customize link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+  <meta property="og:url"           content="http://www.your-domain.com/your-page.html" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="Factman" />
+  <meta property="og:description"   content="Naletíš?" />
+  <meta property="og:image"         content="http://www.your-domain.com/path/image.jpg" />
+  <!--       -->
   <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="full-screen" content="yes"/>
@@ -19,6 +27,28 @@
   <link rel="stylesheet" type="text/css" href="style-desktop.css"/>
 </head>
 <body>
+
+ <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '417431221701779',
+      autoLogAppEvents : true,
+      xfbml            : false,
+      version          : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));</script>
+
 <h1 class="header">Factman</h1>
 
 <div id="GameDiv" >
@@ -34,5 +64,9 @@
 
 <script src="src/settings.js" charset="utf-8"></script>
 <script src="main.js" charset="utf-8"></script>
+
+
+  
+  
 </body>
 </html>

@@ -50,7 +50,7 @@ canvas {
     }
 }
 
-@media all and (max-width: 800px) and (min-width: 481px){
+@media all and (max-width: 800px) and (min-width: 641px){
     canvas {
         width: 640px;
         height: 400px;
@@ -74,7 +74,7 @@ canvas {
     }
 }
 
-@media screen and (min-width: 1281px) {
+@media all and (max-width: 1880px) and (min-width: 1281px) {
     canvas {
         width: 1280px;
         height: 800px;
@@ -83,6 +83,18 @@ canvas {
     #GameDiv {
       width: 1280px;
       height: 800px;
+    }
+}
+
+@media screen and (min-width: 1881px) {
+    canvas {
+        width: 1600px;
+        height: 1000px;
+    }
+    
+    #GameDiv {
+      width: 1600px;
+      height: 1000px;
     }
 }
 
@@ -109,7 +121,7 @@ p.footer {
   width: 100%;
   height: 100%;
 
-  background: #FFF url(./splash.png) no-repeat center;
+  background: #282634 url(./splash.png) no-repeat center;
   background-size: 40%;
 }
 
@@ -132,7 +144,7 @@ p.footer {
     border-radius: 3px;
     box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
     transition: width .4s ease-in-out; 
-    background-color: #AAA;    
+    background-color: #bc2321;    
 }
 
 .stripes span {

@@ -4,30 +4,53 @@
     "difficulty": 0,
     "place": 0,
     "smileyType":1,
-    "headline": "Sankce",
+    "headline": "Máslo za pade! Ruské sankce nás\ndonutily snížit produkci mléka",
     "tree": {
-      "text": "Sankce jsou nesmysl, kvůli takovým jako vy tady lidé nemají práci.",
+      "text": "Kdybychom nepřestali vyvážet mléčné výrobky do Ruska, neřešíme teď pokles výroby a nárůst cen!",
       "answers": [
         {
-          "text": "Ano, sankce škodí naší ekonomice.",
-          "tree": {
-            "text": "Sankce jsou beztak bezdůvodné.",
+          "text": "Lež, co se týče zemědělského exportu,\nnemáme s ruskem silné vztahy",
+            "tree": {
+            "text": "Opravdu?",
             "answers": [
               {
-                "text": "Jsou k ničemu, zrušme je.",
+                "text": "Ano, do Ruska jsme vyváželi v roce 2015\njen 13 % našich zemědělských výrobků",
                 "evaluation": 0
               }, {
-                "text": "Sankce trestají Rusko za agresi vůči Ukrajině.",
-                "evaluation": 1
+                "text": "Ano, do Ruska jsme výváželi v roce 2015\njen 1,2 % našich zemědělských výrobků",
+                "evaluation": 0
+              }
+            ]
+          }
+          
+        }, {
+          "text": "Situace s Ruskem je přece jenom\njeden z mnoha faktorů dnešní situace",
+          "tree": {
+            "text": "Jako co třeba?",
+            "answers": [
+              {
+                "text": "Například celosvětově vyšší poptávka,\ndotace na omezení produkce,\nnižší produkce.",
+                "evaluation": 0
+              }, {
+                "text": "Značný nárůst cen krmiv, špatné\npočasí, zvýšené ceny dopravy.",
+                "evaluation": 0
               }
             ]
           }
         }, {
-          "text": "To spolu vůbec nesouvisí.",
-          "evaluation": 2
-        }, {
-          "text": "S tím my přece nic neuděláme.",
-          "evaluation": 3
+          "text": "Ano, je to daň za přerušený obchod",
+          "tree": {
+            "text": "Opravdu?",
+            "answers": [
+              {
+                "text": "Když narovnáme vztahy s\nRuskem, ceny se brzy vrátí k normálu.",
+                "evaluation": 0
+              }, {
+                "text": "Možná na to přece jenom Rusko takový vliv nemá.",
+                "evaluation": 0
+              }
+            ]
+          }
         }
       ]
     },
@@ -36,27 +59,13 @@
         "id": 0,
         "score": 0,
         "type":"eval_0_2",
-        "text": "Sankce se naší ekonomiky výrazněji nedotknou. Rusko tvoří méně než dvě procenta našeho vývozu. Nejvíce vyvážíme do sousedních zemí.",
-        "headline": "Sankce"
-      }, {
-        "id": 1,
-        "score": 1,
-        "type":"standard",
-        "text": "Sankce byli zavedeny v reakci na anexi Krymu. Sankce se naší ekonomiky výrazněji nedotknou. Rusko tvoří méně než dvě procenta našeho vývozu.",
-        "headline": "Sankce"
-      }, {
-        "id": 2,
-        "score": 2,
-        "text": "Ano, sankce na naší ekonomiku nemají větší vliv.",
-        "type":"eval_0_2",
-        "headline": "Sankce"
-      }, {
-        "id": 3,
-        "score": 0,
-        "text": "K sankcím vůči Rusku jsme se dobrovolně zavázali kvůli ruské agresi na Ukrajině. Sankce ale můžeme vypovědět, navzdory našim partnerům v EU. Na českou ekonomiku mají sankce mizivý vliv.",
-        "type":"standard",
+        "text": "Dnešní vysoká cena másla není primárně způsobena dozvuky ruského embarga , ale hlavně celosvětově zvýšenou poptávkou po mléčných produktech ve spojení s opatřeními, která přijala česká vláda a EU v reakci na nadprodukci mléka minulých let.",
         "headline": "Sankce"
       }
+    ],
+    "sources":[
+        {"title":"Ministerstvo zemedelstvi","name":"Vyvoj agrarniho zahranicniho obchodu 2015","url":"http://tohlejezdroj.cz/jedna/dva.html"},    
+        {"title":"IFCN","name":"Celosvetova krize zemedelske produkce","url":"http://tohlejezdroj.cz/jedna/tri.html"}
     ]
   }
 ]

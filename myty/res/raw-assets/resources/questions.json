@@ -64,8 +64,260 @@
       }
     ],
     "sources":[
-        {"title":"Ministerstvo zemedelstvi","name":"Vyvoj agrarniho zahranicniho obchodu 2015","url":"http://tohlejezdroj.cz/jedna/dva.html"},    
-        {"title":"IFCN","name":"Celosvetova krize zemedelske produkce","url":"http://tohlejezdroj.cz/jedna/tri.html"}
+        {"title":"Evropská Komise","name":"Koneč mléčných kvót","url":"https://ec.europa.eu/agriculture/milk-quota-end_en"},    
+        {"title":"Ministerstvo zemědělství","name":"Vývoj agrárního zahraničního obchodu 2015","url":"http://eagri.cz/public/web/mze/ministerstvo-zemedelstvi/zahranicni-vztahy/agrarni-zahranicni-obchod/v-roce-2015-pokracoval-pozitivni-trend.html"},
+        {"title":"IFCN","name":"Celosvětová mlékárenská ekonomika v krizi","url":"http://edairynews.com/es/wp-content/uploads/2016/10/ifcn-article_global-dairy-farm-economics-in-the-crisis.pdf"}
+    ]
+  },
+  
+  
+  
+  
+  
+    {
+    "id": 1,
+    "difficulty": 0,
+    "place": 0,
+    "smileyType":1,
+    "headline": "Pomsta za Krym? Na liberecké\nradnici visela karikatura Putina.",
+    "tree": {
+      "text": "Krym byl a je ruský. Přece si nepoškodíme vztahy s Ruskem pro pár hejsků na radnici!",
+      "answers": [
+        {
+          "text": "Bylo to zbytečné, ale aspoň za to radní\nmůžeme hnát k odpovědnosti.",
+            "tree": {
+            "text": "Takže chcete říct, že to bylo nelegální?",
+            "answers": [
+              {
+                "text": "To zase ne, spíš se jednalo\no projev občanské společnosti.",
+                "evaluation": 0
+              }, {
+                "text": "To spíše ano a má to jít k soudu.",
+                "evaluation": 0
+              }
+            ]
+          }
+          
+        }, {
+          "text": "Vztahy tyto akce mohou poškodit,\nale zabrání Krymu bylo protiprávní",
+          "tree": {
+            "text": "Za předáním Krymu Ukrajině stál pouze Chruščov, to smluvně závazné nebylo.",
+            "answers": [
+              {
+                "text": "Jeho iniciativu přece stvrdily také ostatní\nmocenské orgány SSSR a mezinárodní smlouvy.",
+                "evaluation": 1
+              }, {
+                "text": "Chruščov měl tehdy neomezenou moc,\njeho rozhodnutí zvrátit nejde.",
+                "evaluation": 1
+              }
+            ]
+          }
+        }, {
+          "text": "Vždyť to vyvrcholilo akcí ruských vojáků\nna Krymu, to zpochybňuje mezinárodní\nuspořádání.",
+          "tree": {
+            "text": "Žádní ruští vojáci na Krymu nebyli.",
+            "answers": [
+              {
+                "text": "O tom, že tam byli, ale existují důkazy.\nPřiznal to i sám ruský prezident.",
+                "evaluation": 2
+              }, {
+                "text": "Sice se to nedá potvrdit, ale byli tam.",
+                "evaluation": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "evaluations": [
+      {
+        "id": 0,
+        "score": 0,
+        "type":"text",
+        "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Z tohoto pohledu byla ruská akce jednoznačně nelegální. Naopak akce na liberecké radnici měla spíše symbolický charakter a ani české státní instituce ji jako nelegální neuznaly"
+      },
+    {
+        "id": 1,
+        "score": 0,
+        "type":"text",
+        "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Nejednalo se o často zmiňovaný „Chruščovovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Z tohoto pohledu byla ruská akce jednoznačně nelegální."
+      },
+      {
+        "id": 2,
+        "score": 0,
+        "type":"text",
+        "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Nejednalo se tedy o „Chruščovovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Přítomnost ruských jednotek na Krymu byla potvrzena samotným ruským prezidentem Putinem."
+      }
+    ],
+    "sources":[
+        {"title":"Eva Prudilová, AMO","name":"Krymská krize","url":"https://www.amo.cz/wp-content/uploads/2016/01/PSS-Krymsk%C3%A1-krize-UNSC.pdf"},    
+        {"title":"Občanské sdružení dekomunizace","name":"Vyjádření ohledně jejich akce vyvěšení Putina","url":"http://www.reflex.cz/clanek/zpravy/55121/na-radnici-v-liberci-povesili-putina-jde-o-varovani-pred-silici-ruskou-diktaturou.html"}
+    ]
+  },
+  
+  
+    {
+    "id": 2,
+    "difficulty": 0,
+    "place": 0,
+    "smileyType":1,
+    "headline": "Bezpečnostní riziko?  Kdo dostaví\njaderné bloky Temelína?",
+    "tree": {
+      "text": "Dostavět Temelín? Tak to určitě bez Ruska, to je riskantní.",
+      "answers": [
+        {
+          "text": "To není pravda, žádná bezpečnostní\nrizika nehrozí.",
+            "tree": {
+            "text": "Nepřijde Vám? S těmi všemi problémy v poslední době…",
+            "answers": [
+              {
+                "text": "Samozřejmě krize jsou, ale nikdy\nse nás nedotkly.",
+                "evaluation": 0
+              }, {
+                "text": "To se dá říct o všech uchazečích\no dostavbu Temelína.",
+                "evaluation": 0
+              }
+            ]
+          }
+          
+        }, {
+          "text": "Také si myslím, že by politická rizika\nměla být jedním z kritérií výběru.",
+          "tree": {
+            "text": "Neriskujeme ale pak horší kvalitu dostavby?",
+            "answers": [
+              {
+                "text": "Řešení nabízená všemi šesti firmami\njsou všechna na vysoké úrovni.",
+                "evaluation": 1
+              }, {
+                "text": " Kvalita musí jít někdy stranou, politická\nkritéria by měla být to hlavní.",
+                "evaluation": 1
+              }
+            ]
+          }
+        }, {
+          "text": "Ruské státní firmy se o dostavbu\nTemelína neuchází.",
+          "tree": {
+            "text": "Opravdu? A co Rosatom?",
+            "answers": [
+              {
+                "text": "Ten přece není státní firmou.",
+                "evaluation": 2
+              }, {
+                "text": "Tak možná se přece jen o zakázku\nuchází i ruská státní firma.",
+                "evaluation": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "evaluations": [
+      {
+        "id": 0,
+        "score": 0,
+        "type":"text",
+        "text": "To pravdou není. Rusko svůj energetický sektor používá jako politickou zbraň, což nás již v minulosti přímo zasáhlo. Například v roce 2009 zastavení dodávek plynu na Ukrajinu postihlo také Českou republiku. Kromě ceny a kvality řešení by bezpečnostně-politická rizika měla být také důležitým kritériem výběru."
+      },
+      {
+        "id": 1,
+        "score": 0,
+        "type":"text",
+        "text": "Kromě ceny a kvality řešení jsou bezpečnostně-politická rizika stejně důležitým kritériem dostavby, která by se měla zvážit. Rusko svůj energetický sektor používá často jako politickou zbraň. Například v roce 2009 zastavení dodávek plynu na Ukrajinu zasáhlo také Českou republiku."
+      },
+      {
+        "id": 2,
+        "score": 0,
+        "type":"text",
+        "text": "Kromě ceny a kvality řešení jsou bezpečnostně-politická rizika stejně důležitým kritériem dostavby, která by se měla zvážit, speciálně při účasti státních firem. Rusko svůj energetický sektor používá často jako politickou zbraň. Například v roce 2009 zastavení dodávek plynu na Ukrajinu zasáhlo také Českou republiku."
+      }
+    ],
+    "sources":[
+        {"title":"Česká televize","name":"Kontext výstavby a soutěže o dostavbu českých jaderných elektráren","url":"http://www.ceskatelevize.cz/ct24/ekonomika/2025866-kdo-dostavi-v-cesku-jadernou-elektrarnu-podle-drabove-jsou-nabizene-projekty"}   
+    ]
+  },
+  
+  
+      {
+    "id": 3,
+    "difficulty": 0,
+    "place": 0,
+    "smileyType":1,
+    "headline": "Lidé nemají práci!\nRuské sankce ničí ekonomiku",
+    "tree": {
+      "text": "Sankce? Kvůli takovým chytrákům jako vy tady lidi nemají práci!",
+      "answers": [
+        {
+          "text": "Vždyť to spolu prakticky nesouvisí.",
+            "tree": {
+            "text": "Jak to myslíte?",
+            "answers": [
+              {
+                "text": "Náš vzájemný obchod s Ruskem není tak\nvelký, aby lidé přišli o práci.",
+                "evaluation": 0
+              }, {
+                "text": "Sankce jsou politického charakteru,\nekonomiky se netýkají.",
+                "evaluation": 0
+              }, {
+                "text": "Už bylo schváleno jejich zrušení,\nfirmy na ně už neberou ohled.",
+                "evaluation": 0
+              }
+            ]
+          }
+          
+        }, {
+          "text": "Je pravda, že spousta lidí práci ztratila.",
+          "tree": {
+            "text": "Takže byste sankce zrušil?",
+            "answers": [
+              {
+                "text": "Ne, je důležité být jednotný\nse svými spojenci.",
+                "evaluation": 1
+              }, {
+                "text": "Na to bohužel nemáme žádný vliv.",
+                "evaluation": 1
+              }
+            ]
+          }
+        }, {
+          "text": "To ano, ale je důležité se vymezit\nproti ruským akcím.",
+          "tree": {
+            "text": "Takže uznávate, že to ničí naši ekonomiku?",
+            "answers": [
+              {
+                "text": "Ano, ale to je vedlejší.",
+                "evaluation": 2
+              }, {
+                "text": "On ten vzájemný obchod možná tak velký není.",
+                "evaluation": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "evaluations": [
+      {
+        "id": 0,
+        "score": 0,
+        "type":"text",
+        "text": "Vzájemný obchod České republiky a Ruska sice klesá, ale nikdy nebyl nikterak velký oproti například obchodu s Německem, který byl i před uvalením sankcí osmkrát větší. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet jiná odbytiště. Dopad těchto sankcí tedy prakticky nemá na zaměstnanost vliv."
+      },
+      {
+        "id": 1,
+        "score": 0,
+        "type":"text",
+        "text": "Rozhodnutí o přijetí nebo odmítnutí protiruských sankcí je plně v moci české vlády. Svůj postup koordinuje se svými spojenci v rámci EU a NATO. Samotný dopad sankcí na rostoucí českou ekonomiku je minimální a nemá na zaměstnanost prakticky vliv. I před uvalením sankcí byl vzájemný obchod zhruba osmkrát menší než s Německem."
+      },
+      {
+        "id": 2,
+        "score": 0,
+        "type":"text",
+        "text": "Vzájemný obchod České republiky a Ruska nikdy nebyl nikterak velký oproti například obchodu s Německem, který byl i před uvalením sankcí osmkrát větší. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet jiná odbytiště. Dopad těchto sankcí prakticky nemá na zaměstnanost vliv."
+      }
+    ],
+    "sources":[
+        {"title":"AMO","name":"Dopad sankcí na země V4","url":"http://www.agricrplus.cz/polsko-doplatilo-na-ruske-sankce-nejvice-ze-zemi-v4"}   
     ]
   }
+  
 ]

@@ -46,7 +46,7 @@
                 "text": "Když narovnáme vztahy s\nRuskem, ceny se brzy vrátí k normálu.",
                 "evaluation": 0
               }, {
-                "text": "Možná na to přece jenom Rusko takový vliv nemá.",
+                "text": "Možná na to přece jenom Rusko\ntakový vliv nemá.",
                 "evaluation": 0
               }
             ]
@@ -78,7 +78,7 @@
     "id": 1,
     "difficulty": 0,
     "place": 0,
-    "smileyType":1,
+    "smileyType":0,
     "headline": "Pomsta za Krym? Na liberecké\nradnici visela karikatura Putina.",
     "tree": {
       "text": "Krym byl a je ruský. Přece si nepoškodíme vztahy s Ruskem pro pár hejsků na radnici!",
@@ -151,7 +151,9 @@
     ],
     "sources":[
         {"title":"Eva Prudilová, AMO","name":"Krymská krize","url":"https://www.amo.cz/wp-content/uploads/2016/01/PSS-Krymsk%C3%A1-krize-UNSC.pdf"},    
-        {"title":"Občanské sdružení dekomunizace","name":"Vyjádření ohledně jejich akce vyvěšení Putina","url":"http://www.reflex.cz/clanek/zpravy/55121/na-radnici-v-liberci-povesili-putina-jde-o-varovani-pred-silici-ruskou-diktaturou.html"}
+        {"title":"Občanské sdružení dekomunizace","name":"Vyjádření ohledně jejich akce vyvěšení Putina","url":"http://www.reflex.cz/clanek/zpravy/55121/na-radnici-v-liberci-povesili-putina-jde-o-varovani-pred-silici-ruskou-diktaturou.html"},
+        {"title":"Michal Lebduška, AMO","name":"Proč nebyl Krym Chruščovovým darem?","url":"https://www.amo.cz/cs/posileni-verejne-kontroly-v-ukrajinskych-regionech/proc-nebyl-krym-chruscovovym-darem/"},
+        {"title":"idnes.cz","name":"Kauza Putin na liberecké radnici nebyla trestným činem","url":"https://liberec.idnes.cz/policie-odlozila-kauzu-putin-djt-/liberec-zpravy.aspx?c=A140418_153544_liberec-zpravy_tm"}
     ]
   },
   
@@ -160,7 +162,7 @@
     "id": 2,
     "difficulty": 0,
     "place": 0,
-    "smileyType":1,
+    "smileyType":2,
     "headline": "Bezpečnostní riziko?  Kdo dostaví\njaderné bloky Temelína?",
     "tree": {
       "text": "Dostavět Temelín? Tak to určitě bez Ruska, to je riskantní.",
@@ -232,7 +234,9 @@
       }
     ],
     "sources":[
-        {"title":"Česká televize","name":"Kontext výstavby a soutěže o dostavbu českých jaderných elektráren","url":"http://www.ceskatelevize.cz/ct24/ekonomika/2025866-kdo-dostavi-v-cesku-jadernou-elektrarnu-podle-drabove-jsou-nabizene-projekty"}   
+        {"title":"Česká televize","name":"Kontext výstavby a soutěže o dostavbu českých jaderných elektráren","url":"http://www.ceskatelevize.cz/ct24/ekonomika/2025866-kdo-dostavi-v-cesku-jadernou-elektrarnu-podle-drabove-jsou-nabizene-projekty"}   ,
+        {"title":"e15","name":"Kontext krizí v dodávkách ruského plynu","url":"http://zpravy.e15.cz/byznys/prumysl-a-energetika/rusko-zastavilo-dodavky-plynu-na-ukrajinu-muze-to-ovlivnit-i-tranzit-1248973"},
+        {"title":"Lukáš Tichý, AMO","name":"Energetické vztahy mezi ČR a Ruskem","url":"https://www.amo.cz/wp-content/uploads/2015/11/amocz-RP-2010-2.pdf"}
     ]
   },
   
@@ -241,7 +245,7 @@
     "id": 3,
     "difficulty": 0,
     "place": 0,
-    "smileyType":1,
+    "smileyType":3,
     "headline": "Lidé nemají práci!\nRuské sankce ničí ekonomiku",
     "tree": {
       "text": "Sankce? Kvůli takovým chytrákům jako vy tady lidi nemají práci!",
@@ -287,7 +291,7 @@
                 "text": "Ano, ale to je vedlejší.",
                 "evaluation": 2
               }, {
-                "text": "On ten vzájemný obchod možná tak velký není.",
+                "text": "On ten vzájemný obchod možná\ntak velký není.",
                 "evaluation": 2
               }
             ]
@@ -316,7 +320,94 @@
       }
     ],
     "sources":[
-        {"title":"AMO","name":"Dopad sankcí na země V4","url":"http://www.agricrplus.cz/polsko-doplatilo-na-ruske-sankce-nejvice-ze-zemi-v4"}   
+        {"title":"AMO","name":"Dopad sankcí na země V4","url":"http://www.agricrplus.cz/polsko-doplatilo-na-ruske-sankce-nejvice-ze-zemi-v4"},
+        {"title":"Pavel Havlíček, AMO","name":"Kontext protiruských sankcí a odvetných opatření","url":"https://www.amo.cz/valka-na-ukrajine-pokracuje-evropske-sankce-plati-dal"},
+        {"title":"ČSÚ","name":"Zahraniční obchod 2013","url":"https://www.czso.cz/csu/czso/zahranicni-obchod-cr-rocni-udaje-2013-feb07vjjxj"},
+        {"title":"ČSÚ","name":"Pořadí států podle zahraničního obchodu s ČR – 2005-2015","url":"https://www.czso.cz/documents/10180/32619246/241015-1606.pdf/fd7242c4-b2ec-46bc-8c73-14df532348c2?version=1.0"}
+    ]
+  },
+
+
+  {
+    "id": 4,
+    "difficulty": 0,
+    "place": 0,
+    "smileyType":1,
+    "headline": "Studie: Polovina bytů v Karlových\nVarech je občanů bývalého SSSR",
+    "tree": {
+      "text": "Azbuka je na každém kroku. Nemůže Vary potkat stejný osud jako Krym?",
+      "answers": [
+        {
+          "text": "Taky proto zákaz azbuky projednával\nuž náš parlament.",
+          "tree": {
+            "text": " To se mi nezdá. A to opravdu prošlo?",
+            "answers": [
+              {
+                "text": "Neprošlo, vlastně šlo hlavně\no regulaci cizojazyčné reklamy.",
+                "evaluation": 0
+              }, {
+                "text": " V nejbližších týdnech by mělo.\nJe to první krok.",
+                "evaluation": 0
+              }
+            ]
+          }
+
+        }, {
+          "text": "Nesmysl. To ani nemůžete myslet vážně.",
+          "tree": {
+            "text": "A proč potom i náš parlament řeší azbuku v českých ulicích?",
+            "answers": [
+              {
+                "text": "Byl to jen návrh a nešlo jen o azbuku.\nŘešila se regulace cizojazyčné reklamy.",
+                "evaluation": 1
+              }, {
+                "text": "Po událostech na Ukrajině dochází\nu nás k potlačení ruského vlivu.",
+                "evaluation": 1
+              }
+            ]
+          }
+        }, {
+          "text": "To určitě ne, ruských rezidentů\ndle všeho navíc spíše ubývá.",
+          "tree": {
+            "text": "Já mám teda spíš pocit, že jich je víc a víc!",
+            "answers": [
+              {
+                "text": "Po oslabení ruské ekonomiky je\npro řadu Rusů cestování příliš drahé.",
+                "evaluation": 2
+              }, {
+                "text": "V Karlových Varech jich sice přibylo,\nale v Česku obecně ne.",
+                "evaluation": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "evaluations": [
+      {
+        "id": 0,
+        "score": 0,
+        "type":"text",
+        "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek.\n\nZmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Vzhledem k oslabení ruské ekonomiky Rusů ve Varech ale spíše ubylo i přes letošní oživení."
+      },
+      {
+        "id": 1,
+        "score": 0,
+        "type":"text",
+        "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení.\n\nZmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Je pravdou, že vzešel ze situace v Karlových Varech. Vzhledem k oslabení ruské ekonomiky Rusů ve Varech ale spíše ubylo i přes letošní oživení."
+      },
+      {
+        "id": 2,
+        "score": 0,
+        "type":"text",
+        "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek.\n\nVzhledem k oslabení ruské ekonomiky Rusů ve Varech, stejně jako v celé ČR, spíše ubylo i přes letošní oživení."
+      }
+    ],
+    "sources":[
+      {"title":"seznam.cz","name":"Polovina budov v Karlových Varech patří obyvatelům bývalého SSSR","url":"https://www.seznam.cz/zpravy/clanek/komu-patri-mesto-filmoveho-festivalu-odpoved-hledejte-v-katastru-33782"},
+      {"title":"Česká televize","name":"V Karlových Varech ubývá ruských rezidentů","url":"http://www.ceskatelevize.cz/ct24/ekonomika/1651960-ceny-bytu-rostou-kvuli-odchodu-rusu-vsak-zlevnuji-v-karlovych-varech"},
+      {"title":"Česká televize","name":"Silnější rubl znamená posílení ruského turismu","url":"http://www.ceskatelevize.cz/ct24/ekonomika/2137584-rustina-zni-karlovymi-vary-zase-casteji-pocty-ruskych-turistu-vzrostly"},
+      {"title":"iDnes","name":"Zákon o regulaci cizojazyčné reklamy nebyl přijat","url":"https://vary.idnes.cz/cizojazycne-napisy-karlovy-vary-rustina-f1k-/vary-zpravy.aspx?c=A160606_153819_vary-zpravy_ba"}
     ]
   }
   

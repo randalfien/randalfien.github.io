@@ -2,7 +2,7 @@
   {
     "id": 0,
     "difficulty": 0,
-    "place": 0,
+    "place": "vysoc",
     "smileyType":1,
     "headline": "Máslo za pade! Ruské sankce nás\ndonutily snížit produkci mléka",
     "tree": {
@@ -15,9 +15,11 @@
             "answers": [
               {
                 "text": "Ano, do Ruska jsme vyváželi v roce 2015\njen 13 % našich zemědělských výrobků",
+                "score":0,
                 "evaluation": 0
               }, {
                 "text": "Ano, do Ruska jsme výváželi v roce 2015\njen 1,2 % našich zemědělských výrobků",
+                "score":2,
                 "evaluation": 0
               }
             ]
@@ -30,9 +32,11 @@
             "answers": [
               {
                 "text": "Například celosvětově vyšší poptávka,\ndotace na omezení produkce,\nnižší produkce.",
+                "score":2,
                 "evaluation": 0
               }, {
                 "text": "Značný nárůst cen krmiv, špatné\npočasí, zvýšené ceny dopravy.",
+                "score":0,
                 "evaluation": 0
               }
             ]
@@ -44,10 +48,12 @@
             "answers": [
               {
                 "text": "Když narovnáme vztahy s\nRuskem, ceny se brzy vrátí k normálu.",
-                "evaluation": 0
+                "evaluation": 0,
+                "score":0
               }, {
                 "text": "Možná na to přece jenom Rusko\ntakový vliv nemá.",
-                "evaluation": 0
+                "evaluation": 0,
+                "score":1
               }
             ]
           }
@@ -57,10 +63,8 @@
     "evaluations": [
       {
         "id": 0,
-        "score": 0,
         "type":"eval_0_2",
-        "text": "Dnešní vysoká cena másla není primárně způsobena dozvuky ruského embarga , ale hlavně celosvětově zvýšenou poptávkou po mléčných produktech ve spojení s opatřeními, která přijala česká vláda a EU v reakci na nadprodukci mléka minulých let.",
-        "headline": "Sankce"
+        "text": "Dnešní vysoká cena másla není primárně způsobena dozvuky ruského embarga , ale hlavně celosvětově zvýšenou poptávkou po mléčných produktech ve spojení s opatřeními, která přijala česká vláda a EU v reakci na nadprodukci mléka minulých let."
       }
     ],
     "sources":[
@@ -77,7 +81,7 @@
     {
     "id": 1,
     "difficulty": 0,
-    "place": 0,
+    "place": "liber",
     "smileyType":0,
     "headline": "Pomsta za Krym? Na liberecké\nradnici visela karikatura Putina.",
     "tree": {
@@ -90,9 +94,11 @@
             "answers": [
               {
                 "text": "To zase ne, spíš se jednalo\no projev občanské společnosti.",
+                "score":1,
                 "evaluation": 0
               }, {
                 "text": "To spíše ano a má to jít k soudu.",
+                "score":0,
                 "evaluation": 0
               }
             ]
@@ -104,11 +110,13 @@
             "text": "Za předáním Krymu Ukrajině stál pouze Chruščov, to smluvně závazné nebylo.",
             "answers": [
               {
-                "text": "Jeho iniciativu přece stvrdily také ostatní\nmocenské orgány SSSR a mezinárodní smlouvy.",
-                "evaluation": 1
+                "text": "Jeho iniciativu přece stvrdily také ostatní\nmocenské orgány SSSR a mezinárodní\nsmlouvy.",
+                "evaluation": 1,
+                "score":2
               }, {
                 "text": "Chruščov měl tehdy neomezenou moc,\njeho rozhodnutí zvrátit nejde.",
-                "evaluation": 1
+                "evaluation": 1,
+                "score":1
               }
             ]
           }
@@ -119,9 +127,11 @@
             "answers": [
               {
                 "text": "O tom, že tam byli, ale existují důkazy.\nPřiznal to i sám ruský prezident.",
+                "score":2,
                 "evaluation": 2
               }, {
                 "text": "Sice se to nedá potvrdit, ale byli tam.",
+                "score":0,
                 "evaluation": 2
               }
             ]
@@ -132,19 +142,16 @@
     "evaluations": [
       {
         "id": 0,
-        "score": 0,
         "type":"text",
         "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Z tohoto pohledu byla ruská akce jednoznačně nelegální. Naopak akce na liberecké radnici měla spíše symbolický charakter a ani české státní instituce ji jako nelegální neuznaly"
       },
     {
         "id": 1,
-        "score": 0,
         "type":"text",
         "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Nejednalo se o často zmiňovaný „Chruščovovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Z tohoto pohledu byla ruská akce jednoznačně nelegální."
       },
       {
         "id": 2,
-        "score": 0,
         "type":"text",
         "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Nejednalo se tedy o „Chruščovovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Přítomnost ruských jednotek na Krymu byla potvrzena samotným ruským prezidentem Putinem."
       }
@@ -161,7 +168,7 @@
     {
     "id": 2,
     "difficulty": 0,
-    "place": 0,
+    "place": "budej",
     "smileyType":2,
     "headline": "Bezpečnostní riziko?  Kdo dostaví\njaderné bloky Temelína?",
     "tree": {
@@ -174,9 +181,11 @@
             "answers": [
               {
                 "text": "Samozřejmě krize jsou, ale nikdy\nse nás nedotkly.",
+                "score":0,
                 "evaluation": 0
               }, {
                 "text": "To se dá říct o všech uchazečích\no dostavbu Temelína.",
+                "score":0,
                 "evaluation": 0
               }
             ]
@@ -189,9 +198,11 @@
             "answers": [
               {
                 "text": "Řešení nabízená všemi šesti firmami\njsou všechna na vysoké úrovni.",
+                "score":2,
                 "evaluation": 1
               }, {
                 "text": " Kvalita musí jít někdy stranou, politická\nkritéria by měla být to hlavní.",
+                "score":1,
                 "evaluation": 1
               }
             ]
@@ -203,9 +214,11 @@
             "answers": [
               {
                 "text": "Ten přece není státní firmou.",
+                "score":0,
                 "evaluation": 2
               }, {
                 "text": "Tak možná se přece jen o zakázku\nuchází i ruská státní firma.",
+                "score":1,
                 "evaluation": 2
               }
             ]
@@ -216,19 +229,16 @@
     "evaluations": [
       {
         "id": 0,
-        "score": 0,
         "type":"text",
         "text": "To pravdou není. Rusko svůj energetický sektor používá jako politickou zbraň, což nás již v minulosti přímo zasáhlo. Například v roce 2009 zastavení dodávek plynu na Ukrajinu postihlo také Českou republiku. Kromě ceny a kvality řešení by bezpečnostně-politická rizika měla být také důležitým kritériem výběru."
       },
       {
         "id": 1,
-        "score": 0,
         "type":"text",
         "text": "Kromě ceny a kvality řešení jsou bezpečnostně-politická rizika stejně důležitým kritériem dostavby, která by se měla zvážit. Rusko svůj energetický sektor používá často jako politickou zbraň. Například v roce 2009 zastavení dodávek plynu na Ukrajinu zasáhlo také Českou republiku."
       },
       {
         "id": 2,
-        "score": 0,
         "type":"text",
         "text": "Kromě ceny a kvality řešení jsou bezpečnostně-politická rizika stejně důležitým kritériem dostavby, která by se měla zvážit, speciálně při účasti státních firem. Rusko svůj energetický sektor používá často jako politickou zbraň. Například v roce 2009 zastavení dodávek plynu na Ukrajinu zasáhlo také Českou republiku."
       }
@@ -244,7 +254,7 @@
       {
     "id": 3,
     "difficulty": 0,
-    "place": 0,
+    "place": "ust",
     "smileyType":3,
     "headline": "Lidé nemají práci!\nRuské sankce ničí ekonomiku",
     "tree": {
@@ -257,12 +267,15 @@
             "answers": [
               {
                 "text": "Náš vzájemný obchod s Ruskem není tak\nvelký, aby lidé přišli o práci.",
+                "score":2,
                 "evaluation": 0
               }, {
                 "text": "Sankce jsou politického charakteru,\nekonomiky se netýkají.",
+                "score":0,
                 "evaluation": 0
               }, {
                 "text": "Už bylo schváleno jejich zrušení,\nfirmy na ně už neberou ohled.",
+                "score":0,
                 "evaluation": 0
               }
             ]
@@ -275,9 +288,11 @@
             "answers": [
               {
                 "text": "Ne, je důležité být jednotný\nse svými spojenci.",
+                "score":1,
                 "evaluation": 1
               }, {
                 "text": "Na to bohužel nemáme žádný vliv.",
+                "score":0,
                 "evaluation": 1
               }
             ]
@@ -289,9 +304,11 @@
             "answers": [
               {
                 "text": "Ano, ale to je vedlejší.",
+                "score":0,
                 "evaluation": 2
               }, {
                 "text": "On ten vzájemný obchod možná\ntak velký není.",
+                "score":1,
                 "evaluation": 2
               }
             ]
@@ -302,19 +319,16 @@
     "evaluations": [
       {
         "id": 0,
-        "score": 0,
         "type":"text",
         "text": "Vzájemný obchod České republiky a Ruska sice klesá, ale nikdy nebyl nikterak velký oproti například obchodu s Německem, který byl i před uvalením sankcí osmkrát větší. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet jiná odbytiště. Dopad těchto sankcí tedy prakticky nemá na zaměstnanost vliv."
       },
       {
         "id": 1,
-        "score": 0,
         "type":"text",
         "text": "Rozhodnutí o přijetí nebo odmítnutí protiruských sankcí je plně v moci české vlády. Svůj postup koordinuje se svými spojenci v rámci EU a NATO. Samotný dopad sankcí na rostoucí českou ekonomiku je minimální a nemá na zaměstnanost prakticky vliv. I před uvalením sankcí byl vzájemný obchod zhruba osmkrát menší než s Německem."
       },
       {
         "id": 2,
-        "score": 0,
         "type":"text",
         "text": "Vzájemný obchod České republiky a Ruska nikdy nebyl nikterak velký oproti například obchodu s Německem, který byl i před uvalením sankcí osmkrát větší. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet jiná odbytiště. Dopad těchto sankcí prakticky nemá na zaměstnanost vliv."
       }
@@ -331,7 +345,7 @@
   {
     "id": 4,
     "difficulty": 0,
-    "place": 0,
+    "place": "karl",
     "smileyType":1,
     "headline": "Studie: Polovina bytů v Karlových\nVarech je občanů bývalého SSSR",
     "tree": {
@@ -344,9 +358,11 @@
             "answers": [
               {
                 "text": "Neprošlo, vlastně šlo hlavně\no regulaci cizojazyčné reklamy.",
+                "score":1,
                 "evaluation": 0
               }, {
                 "text": " V nejbližších týdnech by mělo.\nJe to první krok.",
+                "score":0,
                 "evaluation": 0
               }
             ]
@@ -359,9 +375,11 @@
             "answers": [
               {
                 "text": "Byl to jen návrh a nešlo jen o azbuku.\nŘešila se regulace cizojazyčné reklamy.",
+                "score":2,
                 "evaluation": 1
               }, {
                 "text": "Po událostech na Ukrajině dochází\nu nás k potlačení ruského vlivu.",
+                "score":0,
                 "evaluation": 1
               }
             ]
@@ -373,9 +391,11 @@
             "answers": [
               {
                 "text": "Po oslabení ruské ekonomiky je\npro řadu Rusů cestování příliš drahé.",
+                "score":2,
                 "evaluation": 2
               }, {
                 "text": "V Karlových Varech jich sice přibylo,\nale v Česku obecně ne.",
+                "score":0,
                 "evaluation": 2
               }
             ]
@@ -386,19 +406,16 @@
     "evaluations": [
       {
         "id": 0,
-        "score": 0,
         "type":"text",
         "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek.\n\nZmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Vzhledem k oslabení ruské ekonomiky Rusů ve Varech ale spíše ubylo i přes letošní oživení."
       },
       {
         "id": 1,
-        "score": 0,
         "type":"text",
         "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení.\n\nZmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Je pravdou, že vzešel ze situace v Karlových Varech. Vzhledem k oslabení ruské ekonomiky Rusů ve Varech ale spíše ubylo i přes letošní oživení."
       },
       {
         "id": 2,
-        "score": 0,
         "type":"text",
         "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek.\n\nVzhledem k oslabení ruské ekonomiky Rusů ve Varech, stejně jako v celé ČR, spíše ubylo i přes letošní oživení."
       }

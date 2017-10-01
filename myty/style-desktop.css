@@ -100,11 +100,11 @@ canvas {
 }
 
 a:link, a:visited {
-  color: #000;
+  color: #c4a26c;
 }
 
 a:active, a:hover {
-  color: #666;
+  color: #cfb489;
 }
 
 p.header {
@@ -113,6 +113,7 @@ p.header {
 
 p.footer {
   font-size: x-small;
+  color: #c4a26c
 }
 
 #splash {

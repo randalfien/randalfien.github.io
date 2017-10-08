@@ -1052,15 +1052,15 @@
   "evaluations": [
     {
       "id": 0,
-      "type": "text",
-      "text": "To je sice pravda, ale plyn dovážený z Norska byl a je původem ruský, stejně jako plyn dovážený z Německa. Česká republika nicméně navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů. Rusko je navíc na svém vývozu plynu ekonomicky silně závislé. Dá se tedy říct, že jsme proti výpadkům dodávek plynu nezávislejší než dřív."
+      "type": "eval_0_3",
+      "text": "To je sice pravda, ale plyn dovážený z Norska byl a je původem ruský, stejně jako plyn dovážený z Německa. Česká republika ale navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů. Rusko je navíc na svém vývozu plynu ekonomicky závislé. Proti výpadkům dodávek plynu jsme nezávislejší než dříve."
     }, {
       "id": 1,
-      "type": "text",
+      "type": "eval_0_3",
       "text": "Česká republika oproti krizi v roce 2008 navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů. Rusko je navíc na svém vývozu plynu ekonomicky silně závislé. Dá se tedy říct, že jsme oproti výpadkům dodávek plynu nezávislejší než dřív a jsme připraveni čelit případné krizi delší dobu."
     }, {
       "id": 2,
-      "type": "text",
+      "type": "eval_0_3",
       "text": "Plyn dovážený z Norska a Německa do ČR je vesměs ruského původu. Je to umožněno volnějším obchodem s touto komoditou a širším propojením České republiky na evropskou síť plynovodů. Rusko je navíc na svém vývozu plynu silně závislé. Dá se tedy říct, že jsme proti výpadkům dodávek plynu nezávislejší než dřív."
     }
   ],

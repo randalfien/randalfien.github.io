@@ -62,22 +62,22 @@
     "evaluations": [
       {
         "id": 0,
-        "type": "eval_0_2",
-        "text": "Dnešní vysoká cena másla není primárně způsobena dozvuky ruského embarga , ale hlavně celosvětově zvýšenou poptávkou po mléčných produktech ve spojení s opatřeními, která přijala česká vláda a EU v reakci na nadprodukci mléka minulých let."
+        "type": "text",
+        "text": "Dnešní vysoká cena másla není primárně způsobena dopady ruských sankcí. Je spíše výsledkem celosvětově zvýšené poptávky po mléčných produktech společně s opatřeními české vlády a EU reagujícími na nadprodukci mléka v minulých letech. Do Ruska jsme vyváželi v roce 2016 pouze 1,3 % našich zemědělských výrobků."
       }
     ],
     "sources": [
       {
-        "title": "Evropská Komise",
-        "name": "Koneč mléčných kvót",
+        "title": "European Commission",
+        "name": "The end of milk quotas",
         "url": "https://ec.europa.eu/agriculture/milk-quota-end_en"
       }, {
         "title": "Ministerstvo zemědělství",
-        "name": "Vývoj agrárního zahraničního obchodu 2015",
+        "name": "V roce 2015 pokračoval pozitivní trend agrárního zahraničního obchodu ČR",
         "url": "http://eagri.cz/public/web/mze/ministerstvo-zemedelstvi/zahranicni-vztahy/agrarni-zahranicni-obchod/v-roce-2015-pokracoval-pozitivni-trend.html"
       }, {
         "title": "IFCN",
-        "name": "Celosvětová mlékárenská ekonomika v krizi",
+        "name": "Global dairy farm economics in the crisis years 2015–2016",
         "url": "http://edairynews.com/es/wp-content/uploads/2016/10/ifcn-article_global-dairy-farm-economics-in-the-crisis.pdf"
       }
     ]
@@ -91,12 +91,12 @@
     "text": "Těmito akcemi si zbytečně zhoršujeme vztahy s Ruskem! Krym byl a je legálně ruský.",
     "answers": [
       {
-        "text": "Bylo to zbytečné, ale aspoň za to radní\nmůžeme hnát k odpovědnosti.",
+        "text": "Ano, byla to zbytečná akce,\nale aspoň za to radnici\nmůžeme hnát k odpovědnosti.",
         "tree": {
           "text": "Takže chcete říct, že to bylo nelegální?",
           "answers": [
             {
-              "text": "To zase ne, spíš se jednalo\no projev občanské společnosti.",
+              "text": "To zase ne, spíš se jednalo\no občanský aktivismus.",
               "score": 1,
               "evaluation": 0
             }, {
@@ -107,12 +107,12 @@
           ]
         }
       }, {
-        "text": "Vztahy tyto akce mohou poškodit,\nale zabrání Krymu bylo protiprávní",
+        "text": "Česko-ruské vztahy mohou podobné akce\npoškodit, ale zabrání Krymu\nbylo protiprávní.",
         "tree": {
-          "text": "Za předáním Krymu Ukrajině stál pouze Chruščov, to smluvně závazné nebylo.",
+          "text": "Za předáním Krymu Ukrajině stál pouze Chruščov, smluvně závazné nebylo.",
           "answers": [
             {
-              "text": " Lež. Jeho iniciativu přece stvrdily také\nostatnímocenské orgány SSSR\na mezinárodnísmlouvy.",
+              "text": " Lež. Jeho iniciativu přece stvrdily také\nostatní mocenské orgány SSSR\na mezinárodní smlouvy.",
               "evaluation": 1,
               "score": 2
             }, {
@@ -123,12 +123,12 @@
           ]
         }
       }, {
-        "text": "Legálně? Akce ruských vojáků\nna Krymu zpochybňují mezinárodní\nuspořádání.",
+        "text": "Legálně? Akce ruských vojáků na Krymu\njsou v rozporu s mezinárodním právem.",
         "tree": {
           "text": "Žádní ruští vojáci na Krymu nebyli.",
           "answers": [
             {
-              "text": "O tom, že tam byli, ale existují důkazy.\nPřiznal to i sám ruský prezident.",
+              "text": "O tom, že tam byli ale existují důkazy.\nPřiznal to i sám ruský prezident.",
               "score": 2,
               "evaluation": 2
             }, {
@@ -145,34 +145,34 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Z tohoto pohledu byla ruská akce jednoznačně nelegální. Naopak akce na liberecké radnici měla spíše symbolický charakter a ani české státní instituce ji jako nelegální neuznaly"
+      "text": "Krym je podle mezinárodního práva autonomní součástí Ukrajiny. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Ruská anexe byla proto jednoznačně nelegální. Naopak akce na liberecké radnici měla spíše symbolický charakter a nebyla protiprávní."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Nejednalo se o často zmiňovaný „Chruščovovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Z tohoto pohledu byla ruská akce jednoznačně nelegální."
+      "text": "Krym je podle mezinárodního práva autonomní součástí Ukrajiny. Nejednalo se o často zmiňovaný „Chruščovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Ruská anexe byla proto jednoznačně nelegální."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Krym patřil dle mezinárodních smluv zcela legálně Ukrajině. Nejednalo se tedy o „Chruščovovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Přítomnost ruských jednotek na Krymu byla potvrzena samotným ruským prezidentem Putinem."
+      "text": "Krym je podle mezinárodního práva autonomní součástí Ukrajiny. Nejednalo se tedy o často zmiňovaný „Chruščovův dar“. Jeho zabráním došlo k porušení vzájemných smluv mezi Ukrajinou a Ruskem. Přítomnost ruských vojáků na Krymu byla potvrzena samotným ruským prezidentem Putinem."
     }
   ],
   "sources": [
     {
-      "title": "Eva Prudilová, AMO",
-      "name": "Krymská krize",
-      "url": "https://www.amo.cz/wp-content/uploads/2016/01/PSS-Krymsk%C3%A1-krize-UNSC.pdf"
+      "title": "AMO",
+      "name": "Konflikt na Ukrajině a krymská krize",
+      "url": "https://www.amo.cz/wp-content/uploads/2017/10/Background-Ukrajina.pdf"
     }, {
-      "title": "Občanské sdružení dekomunizace",
-      "name": "Vyjádření ohledně jejich akce vyvěšení Putina",
-      "url": "http://www.reflex.cz/clanek/zpravy/55121/na-radnici-v-liberci-povesili-putina-jde-o-varovani-pred-silici-ruskou-diktaturou.html"
-    }, {
-      "title": "Michal Lebduška, AMO",
+      "title": "AMO",
       "name": "Proč nebyl Krym Chruščovovým darem?",
       "url": "https://www.amo.cz/cs/posileni-verejne-kontroly-v-ukrajinskych-regionech/proc-nebyl-krym-chruscovovym-darem/"
     }, {
       "title": "idnes.cz",
-      "name": "Kauza Putin na liberecké radnici nebyla trestným činem",
+      "name": "Hákový kříž na karikatuře Putina nevadí, rozhodla liberecká policie",
       "url": "https://liberec.idnes.cz/policie-odlozila-kauzu-putin-djt-/liberec-zpravy.aspx?c=A140418_153544_liberec-zpravy_tm"
+    }, {
+      "title": "Reflex.cz",
+      "name": "Na radnici v Liberci \"pověsili\" Putina: Jde o varování před sílící ruskou diktaturou",
+      "url": "http://www.reflex.cz/clanek/zpravy/55121/na-radnici-v-liberci-povesili-putina-jde-o-varovani-pred-silici-ruskou-diktaturou.html"
     }
   ]
 }, {
@@ -180,28 +180,32 @@
   "difficulty": 0,
   "place": "budej",
   "smileyType": 2,
-  "headline": "Bezpečnostní riziko?  Kdo dostaví\njaderné bloky Temelína?",
+  "headline": "Bezpečnostní riziko? Kdo dostaví\njaderné bloky Temelína?",
   "tree": {
     "text": "Dostavět Temelín? Tak to určitě bez Ruska, to je riskantní.",
     "answers": [
       {
-        "text": "To není pravda, žádná bezpečnostní\nrizika nehrozí.",
+        "text": "To není pravda, žádná politicko-\nbezpečnostní rizika nehrozí.",
         "tree": {
           "text": "Nepřijde Vám? S těmi všemi problémy v poslední době…",
           "answers": [
             {
-              "text": "Samozřejmě krize jsou, ale nikdy\nse nás nedotkly.",
+              "text": "Samozřejmě, krize jsou, ale nikdy\nse nás nedotkly.",
               "score": 0,
               "evaluation": 0
             }, {
               "text": "To se dá říct o všech uchazečích\no dostavbu Temelína.",
               "score": 0,
               "evaluation": 0
+            }, {
+              "text": "To riziko za to stojí. Elektrárnu\nvybudují hlavně české firmy.",
+              "score": 1,
+              "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Také si myslím, že by politická rizika\nměla být jedním z kritérií výběru.",
+        "text": "Také myslím, že by politicko-\nbezpečnostní rizika měla být\nkritériem výběru.",
         "tree": {
           "text": "Neriskujeme ale pak horší kvalitu dostavby?",
           "answers": [
@@ -210,14 +214,18 @@
               "score": 2,
               "evaluation": 1
             }, {
-              "text": " Kvalita musí jít někdy stranou, politická\nkritéria by měla být to hlavní.",
+              "text": "Kvalita musí jít někdy stranou, politická\nkritéria by měla být to hlavní.",
               "score": 1,
+              "evaluation": 1
+            }, {
+              "text": "To ne, Rosatom ale zakázku splní\nve spolupráci s českými firmami",
+              "score": 2,
               "evaluation": 1
             }
           ]
         }
       }, {
-        "text": "Ruské státní firmy se o dostavbu\nTemelína neuchází.",
+        "text": "Ruské státní firmy se o dostavbu\nTemelína ani neucházeli.",
         "tree": {
           "text": "Opravdu? A co Rosatom?",
           "answers": [
@@ -239,30 +247,35 @@
     {
       "id": 0,
       "type": "text",
-      "text": "To pravdou není. Rusko svůj energetický sektor používá jako politickou zbraň, což nás již v minulosti přímo zasáhlo. Například v roce 2009 zastavení dodávek plynu na Ukrajinu postihlo také Českou republiku. Kromě ceny a kvality řešení by bezpečnostně-politická rizika měla být také důležitým kritériem výběru."
+      "text": "To pravdou není. Rusko svůj energetický sektor používá jako politický nástroj, což nás již v minulosti přímo zasáhlo. Například zastavení dodávek plynu na Ukrajinu v roce 2009 zasáhlo také Českou republiku. Kromě ceny a kvality řešení by bezpečnostně-politická rizika měla být důležitým kritériem výběru. Oproti ostatním uchazečům ale ruská firma Rosatom nabízí, že 70 % objemu prací splní české firmy."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Kromě ceny a kvality řešení jsou bezpečnostně-politická rizika stejně důležitým kritériem dostavby, která by se měla zvážit. Rusko svůj energetický sektor používá často jako politickou zbraň. Například v roce 2009 zastavení dodávek plynu na Ukrajinu zasáhlo také Českou republiku."
+      "text": "Stejně jako cena a kvalita řešení jsou i bezpečnostně-politická rizika důležitým kritériem dostavby, které je třeba zvážit. Rusko svůj energetický sektor používá často jako politický nástroj. Například zastavení dodávek plynu na Ukrajinu v roce 2009 zasáhlo také Českou republiku. Oproti ostatním uchazečům ale ruská firma Rosatom nabízí, že 70 % objemu prací splní české firmy."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Kromě ceny a kvality řešení jsou bezpečnostně-politická rizika stejně důležitým kritériem dostavby, která by se měla zvážit, speciálně při účasti státních firem. Rusko svůj energetický sektor používá často jako politickou zbraň. Například v roce 2009 zastavení dodávek plynu na Ukrajinu zasáhlo také Českou republiku."
+      "text": "Stejně jako cena a kvalita řešení jsou bezpečnostně-politická rizika důležitým kritériem dostavby, které je třeba zvážit. A to platí obzvlášť v případech účasti ruských státních firem, jako je Rosatom. Rusko svůj energetický sektor používá často jako politický nástroj. Například zastavení dodávek plynu na Ukrajinu v roce 2009 zasáhlo také Českou republiku."
     }
   ],
   "sources": [
     {
+      "title": "AMO",
+      "name": "Energetické vztahy mezi Českou republikou a Ruskou federací",
+      "url": "https://www.amo.cz/wp-content/uploads/2015/11/amocz-RP-2010-2.pdf"
+    },
+    {
       "title": "Česká televize",
-      "name": "Kontext výstavby a soutěže o dostavbu českých jaderných elektráren",
+      "name": "Kdo dostaví v Česku jadernou elektrárnu? Podle Drábové jsou nabízené projekty srovnatelné",
       "url": "http://www.ceskatelevize.cz/ct24/ekonomika/2025866-kdo-dostavi-v-cesku-jadernou-elektrarnu-podle-drabove-jsou-nabizene-projekty"
     }, {
       "title": "e15",
-      "name": "Kontext krizí v dodávkách ruského plynu",
+      "name": "Rusko zastavilo dodávky plynu na Ukrajinu, může to ovlivnit i tranzit",
       "url": "http://zpravy.e15.cz/byznys/prumysl-a-energetika/rusko-zastavilo-dodavky-plynu-na-ukrajinu-muze-to-ovlivnit-i-tranzit-1248973"
     }, {
-      "title": "Lukáš Tichý, AMO",
-      "name": "Energetické vztahy mezi ČR a Ruskem",
-      "url": "https://www.amo.cz/wp-content/uploads/2015/11/amocz-RP-2010-2.pdf"
+      "title": "Kurzy.cz",
+      "name": "Rosatom slibuje dát při dostavbě Temelína 70 % zakázek českým firmám, nabízí i financování",
+      "url": "http://www.kurzy.cz/tema/detail/rosatom-slibuje-dat-pri-dostavbe-temelina-70-zakazek-ceskym-745013.html"
     }
   ]
 }, {
@@ -275,12 +288,12 @@
     "text": "Sankce? Kvůli takovým chytrákům jako vy tady lidi nemají práci!",
     "answers": [
       {
-        "text": "To není pravda, navíc to spolu prakticky nesouvisí.",
+        "text": "Sankce a úbytek pracovních míst\nspolu přece prakticky nesouvisí.",
         "tree": {
           "text": "Jak to myslíte?",
           "answers": [
             {
-              "text": "Náš vzájemný obchod s Ruskem není tak\nvelký, aby lidé přišli o práci.",
+              "text": "Náš obchod s Ruskem není velký,\núbytek pracovních míst je minimální.",
               "score": 2,
               "evaluation": 0
             }, {
@@ -288,39 +301,43 @@
               "score": 0,
               "evaluation": 0
             }, {
-              "text": "Už bylo schváleno jejich zrušení,\nfirmy na ně už neberou ohled.",
+              "text": "Došlo ke zrušení sankcí, firmy\nna ně už neberou ohled.",
               "score": 0,
               "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Je pravda, že spousta lidí práci ztratila.",
+        "text": "Je pravda, že spousta lidí\nkvůli sankcím ztratila práci.",
         "tree": {
           "text": "Takže byste sankce zrušil?",
           "answers": [
             {
-              "text": "Ne, je důležité být jednotný\nse svými spojenci.",
+              "text": "Ne, je důležité držet\nse svými spojenci.",
               "score": 1,
               "evaluation": 1
             }, {
               "text": "Na to bohužel nemáme žádný vliv.",
               "score": 0,
               "evaluation": 1
+            }, {
+              "text": "Když je zrušíme, přibude v\nregionu pracovních míst.",
+              "score": 0,
+              "evaluation": 1
             }
           ]
         }
       }, {
-        "text": "To sice ano, ale je důležité se vymezit\nproti ruským akcím.",
+        "text": "To sice ano, ale je důležité se vymezit\nproti ruské agresi.",
         "tree": {
-          "text": "Takže uznávate, že to ničí naši ekonomiku?",
+          "text": "Takže uznáváte, že to ničí naši ekonomiku?",
           "answers": [
             {
               "text": "Ano, ale to je vedlejší.",
               "score": 0,
               "evaluation": 2
             }, {
-              "text": "On ten vzájemný obchod možná\ntak velký není.",
+              "text": "On ten vzájemný obchod možná\nzas tak velký není.",
               "score": 1,
               "evaluation": 2
             }
@@ -333,34 +350,34 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Vzájemný obchod České republiky a Ruska sice klesá, ale nikdy nebyl nikterak velký oproti například obchodu s Německem, který byl i před uvalením sankcí osmkrát větší. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet jiná odbytiště. Dopad těchto sankcí tedy prakticky nemá na zaměstnanost vliv."
+      "text": "Vzájemný obchod České republiky a Ruska začal po úpadku v posledních letech opět růst. Na druhou stranu například ve srovnání s naší obchodní výměnou s Německem, která byla i před uvalením sankcí osmkrát větší, nebyl nikdy příliš vysoký. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet nová odbytiště. Sankce mají na zaměstnanost zanedbatelný vliv."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Rozhodnutí o přijetí nebo odmítnutí protiruských sankcí je plně v moci české vlády. Svůj postup koordinuje se svými spojenci v rámci EU a NATO. Samotný dopad sankcí na rostoucí českou ekonomiku je minimální a nemá na zaměstnanost prakticky vliv. I před uvalením sankcí byl vzájemný obchod zhruba osmkrát menší než s Německem."
+      "text": "Rozhodnutí o přijetí nebo odmítnutí protiruských sankcí je plně v moci české vlády. Svůj postup koordinuje se svými spojenci v rámci EU a NATO. Samotný dopad sankcí na rostoucí českou ekonomiku je minimální a nemá na zaměstnanost vliv. I před uvalením sankcí byl vzájemný obchod zhruba osmkrát menší než obchodní výměna ČR s Německem."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Vzájemný obchod České republiky a Ruska nikdy nebyl nikterak velký oproti například obchodu s Německem, který byl i před uvalením sankcí osmkrát větší. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet jiná odbytiště. Dopad těchto sankcí prakticky nemá na zaměstnanost vliv."
+      "text": "Vzájemný obchod České republiky a Ruska začal po úpadku v posledních letech opět růst. Na druhou stranu například ve srovnání s naší obchodní výměnou s Německem, která byla i před uvalením sankcí osmkrát větší, nebyl nikdy příliš vysoký. Poslední roky česká ekonomika stabilně roste a firmám se daří nacházet nová odbytiště. Sankce mají na zaměstnanost zanedbatelný vliv."
     }
   ],
   "sources": [
     {
       "title": "AMO",
-      "name": "Dopad sankcí na země V4",
-      "url": "http://www.agricrplus.cz/polsko-doplatilo-na-ruske-sankce-nejvice-ze-zemi-v4"
+      "name": "Internal Market and the EU Russia Sanctions: Examination of Practice in Visegrád Countries One Year On",
+      "url": "https://www.amo.cz/wp-content/uploads/2015/11/amocz_pp-2015-02.pdf"
     }, {
-      "title": "Pavel Havlíček, AMO",
-      "name": "Kontext protiruských sankcí a odvetných opatření",
-      "url": "https://www.amo.cz/valka-na-ukrajine-pokracuje-evropske-sankce-plati-dal"
-    }, {
-      "title": "ČSÚ",
-      "name": "Zahraniční obchod 2013",
-      "url": "https://www.czso.cz/csu/czso/zahranicni-obchod-cr-rocni-udaje-2013-feb07vjjxj"
+      "title": "AMO",
+      "name": "Válka na Ukrajině pokračuje, evropské sankce platí dál",
+      "url": "https://www.amo.cz/valka-na-ukrajine-pokracuje-evropske-sankce-plati-dal/"
     }, {
       "title": "ČSÚ",
-      "name": "Pořadí států podle zahraničního obchodu s ČR – 2005-2015",
+      "name": "Pořadí států podle výše vývozu a dovozu",
       "url": "https://www.czso.cz/documents/10180/32619246/241015-1606.pdf/fd7242c4-b2ec-46bc-8c73-14df532348c2?version=1.0"
+    }, {
+      "title": "Idnes.cz",
+      "name": "Sankce nesankce, český vývoz do Ruska opět roste. Letos zatím o čtvrtinu",
+      "url": "https://ekonomika.idnes.cz/propad-vyvozu-do-ruska-se-letos-zastavil-f1g-/ekonomika.aspx?c=A170426_120812_ekonomika_rts"
     }
   ]
 }, {
@@ -368,17 +385,17 @@
   "difficulty": 0,
   "place": "karl",
   "smileyType": 1,
-  "headline": "Studie: Polovina bytů v Karlových\nVarech je občanů bývalého SSSR",
+  "headline": "Polovinu bytů v Karlových Varech\nvlastní občané bývalého SSSR",
   "tree": {
     "text": "Azbuka je na každém kroku. Nemůže Vary potkat stejný osud jako Krym?",
     "answers": [
       {
-        "text": "Ano, taky proto zákaz azbuky projednával\nuž náš parlament.",
+        "text": "Ano, český Parlament už také\nprojednával zákaz azbuky.",
         "tree": {
           "text": " To se mi nezdá. A to opravdu prošlo?",
           "answers": [
             {
-              "text": "Neprošlo, vlastně šlo hlavně\no regulaci cizojazyčné reklamy.",
+              "text": "Neprošlo, šlo ale vlastně\no regulaci cizojazyčné reklamy.",
               "score": 1,
               "evaluation": 0
             }, {
@@ -398,23 +415,23 @@
               "score": 2,
               "evaluation": 1
             }, {
-              "text": "Po událostech na Ukrajině dochází\nu nás k potlačení ruského vlivu.",
+              "text": "Zákon neprošel. Šlo o odvetné opatření\nza události na Ukrajině.",
               "score": 0,
               "evaluation": 1
             }
           ]
         }
       }, {
-        "text": "To určitě ne, ruských rezidentů\ndle všeho navíc spíše ubývá.",
+        "text": "To určitě ne, ruských rezidentů\ndle všeho spíše ubývá.",
         "tree": {
           "text": "Já mám teda spíš pocit, že jich je víc a víc!",
           "answers": [
             {
-              "text": "Naopak, po oslabení ruské ekonomiky je\npro řadu Rusů cestování příliš drahé.",
+              "text": "Naopak, po oslabení ruské ekonomiky je\npro řadu Rusů Česko příliš drahé.",
               "score": 2,
               "evaluation": 2
             }, {
-              "text": "V Karlových Varech jich sice přibylo,\nale v Česku obecně ne.",
+              "text": " V Karlových Varech jich sice přibylo,\nale v Česku obecně ne.",
               "score": 0,
               "evaluation": 2
             }
@@ -427,33 +444,33 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek.\n\nZmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Vzhledem k oslabení ruské ekonomiky Rusů ve Varech ale spíše ubylo i přes letošní oživení."
+      "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek. Zmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 Parlamentem neprošel. Vzhledem k oslabení ruské ekonomiky však Rusů ve Varech dlouhodobě spíše ubylo, ačkoli se tento trend letos začíná obracet."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení.\n\nZmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Je pravdou, že vzešel ze situace v Karlových Varech. Vzhledem k oslabení ruské ekonomiky Rusů ve Varech ale spíše ubylo i přes letošní oživení."
+      "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Zmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 Parlamentem neprošel.  Je ale pravda, že podnětem byla situace v Karlových Varech. Vzhledem k oslabení ruské ekonomiky však Rusů ve Varech dlouhodobě spíše ubylo, ačkoli se tento trend letos začíná obracet."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek.\n\nVzhledem k oslabení ruské ekonomiky Rusů ve Varech, stejně jako v celé ČR, spíše ubylo i přes letošní oživení."
+      "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Rusové se navíc do těchto míst stěhují spíše proto, aby své domovině unikli, případně aby ukryli svůj majetek. Vzhledem k oslabení ruské ekonomiky však Rusů ve Varech dlouhodobě spíše ubylo, ačkoli se tento trend letos začíná obracet."
     }
   ],
   "sources": [
     {
-      "title": "seznam.cz",
-      "name": "Polovina budov v Karlových Varech patří obyvatelům bývalého SSSR",
-      "url": "https://www.seznam.cz/zpravy/clanek/komu-patri-mesto-filmoveho-festivalu-odpoved-hledejte-v-katastru-33782"
+      "title": "Aktualne.cz",
+      "name": "Karlovy Vary v ruském područí. Polovinu lázeňského města vlastní občané bývalého SSSR",
+      "url": "https://zpravy.aktualne.cz/zahranici/karlovy-vary-v-ruskem-podruci-polovinu-lazenskeho-mesta-vlas/r~054fb10ce6c911e6b87d0025900fea04/"
     }, {
       "title": "Česká televize",
-      "name": "V Karlových Varech ubývá ruských rezidentů",
+      "name": "Ceny bytů rostou, kvůli odchodu Rusů však zlevňují v Karlových Varech",
       "url": "http://www.ceskatelevize.cz/ct24/ekonomika/1651960-ceny-bytu-rostou-kvuli-odchodu-rusu-vsak-zlevnuji-v-karlovych-varech"
     }, {
       "title": "Česká televize",
-      "name": "Silnější rubl znamená posílení ruského turismu",
+      "name": "Ruština zní Karlovými Vary zase častěji. Počty ruských turistů vzrostly",
       "url": "http://www.ceskatelevize.cz/ct24/ekonomika/2137584-rustina-zni-karlovymi-vary-zase-casteji-pocty-ruskych-turistu-vzrostly"
     }, {
-      "title": "iDnes",
-      "name": "Zákon o regulaci cizojazyčné reklamy nebyl přijat",
+      "title": "idnes.cz",
+      "name": "Na kolonádě to vypadá jako v cizině. Ruské nápisy ale mohou zůstat",
       "url": "https://vary.idnes.cz/cizojazycne-napisy-karlovy-vary-rustina-f1k-/vary-zpravy.aspx?c=A160606_153819_vary-zpravy_ba"
     }
   ]
@@ -462,53 +479,53 @@
   "difficulty": 0,
   "place": "stredoce",
   "smileyType": 0,
-  "headline": "Nový radar v Brdech? Trumpovo\nzvolení oživuje debatu.",
+  "headline": "Nový radar v Brdech? Trump\noživuje starou debatu.",
   "tree": {
     "text": "Není to zbytečné? Vždyť by to poškodilo naše vztahy s Ruskem.",
     "answers": [
       {
-        "text": "Jsou to zatím jen spekulace,\nale nejspíš by to napětí způsobilo",
+        "text": "Jsou to zatím jen spekulace,\nale nejspíš by to Rusko naštvalo.",
         "tree": {
           "text": "Nová americká vojenská základna v Polsku Rusku také vadila?",
           "answers": [
             {
-              "text": "Nevadila, tak možná by ta základna\nnakonec rusku nevadila",
+              "text": "Vidíte, možná by ten\nradar Rusku nakonec nevadil.",
               "score": 0,
               "evaluation": 0
             }, {
-              "text": "Ta samozřejmě způsobila řadu protestů a výhružek",
+              "text": "Ta samozřejmě způsobila řadu protestů.",
               "score": 1,
               "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Jeden štít je čerstvě postaven v Rumunsku\na rusko prakticky neprostestovalo",
+        "text": "Jeden štít je čerstvě postaven\nv Rumunsku a Rusko prakticky\nneprotestovalo.",
         "tree": {
           "text": "To mi netvrďte, že Rusku tohle nevadilo?",
           "answers": [
             {
-              "text": " Nevadilo. Jedná se pouze o obranný štít\nproti hrozbám z blízkého východu",
+              "text": "Nevadilo. Jedná se pouze\no obranný štít proti hrozbám\nz Blízkého východu",
               "evaluation": 0,
               "score": 0
             }, {
-              "text": "Vadilo. Rusko považovalo za problém\n,že NATO získalo přehled o akcích\nv Černém moři",
+              "text": "Vadilo. NATO tak totiž získalo\npřehled o akcích v Černém moři.",
               "evaluation": 1,
               "score": 1
             }
           ]
         }
       }, {
-        "text": "Jako členové NATO bychom\nštít museli ezpodmínečně postavit",
+        "text": "Jako členové NATO bychom tentokrát\nneměli jinou možnost než stavět.",
         "tree": {
-          "text": "Když se to schválí, nebudeme mít na výběr?",
+          "text": "Takže kdyby se měl stavět radar, neměli bychom na výběr?",
           "answers": [
             {
-              "text": "Přesně tak, jelikož neplníme náš\nzávazek platit 2 % HDP na obranu",
+              "text": "Přesně tak, protože neplníme\nnáš závazek dávat 2% HDP na obranu.",
               "score": 0,
               "evaluation": 2
             }, {
-              "text": "Na výběr bychom měli. Musela by výstavbu schválit naše vláda",
+              "text": "Ale ne. Výstavbu by musela\nschválit naše vláda.",
               "score": 1,
               "evaluation": 2
             }
@@ -521,34 +538,34 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Obnovení projektu raketového štítu v ČR je zatím pouze spekulace, kterou oživila předvolební kampaň týmu Donalda Trumpa. Minimálně z reakcí ruské strany v letech 2006-2007 je zřejmé, že by výstavba radaru a protiraketového štítu vedla k vyostření vzájemných vztahů."
+      "text": "Výstavba raketového štítu v ČR je zatím pouze spekulace, kterou oživila předvolební kampaň Donalda Trumpa. Minimálně z reakcí ruské strany v letech 2006-2007 je zřejmé, že by vedla k vyostření vzájemných vztahů."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Obnovení projektu raketového štítu v ČR je zatím pouze spekulace, kterou oživila předvolební kampaň týmu Donalda Trumpa. Minimálně z reakcí ruské strany v letech 2006-2007 je zřejmé, že by výstavba radaru a protiraketového štítu vedla k vyostření vzájemných vztahů. Protesty způsobila také americká základna v Polsku a raketový štít v Rumunsku."
+      "text": "Výstavba raketového štítu v ČR je zatím pouze spekulace, kterou oživila předvolební kampaň Donalda Trumpa. Minimálně z reakcí ruské strany v letech 2006-2007 je zřejmé, že by vedla k vyostření vzájemných vztahů. Protesty způsobila už základna NATO v Polsku nebo raketový štít v Rumunsku."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Případná výstavba raketového štítu je plně v rukou české vlády. Navíc obnovení projektu raketového štítu v ČR je zatím pouze spekulace, kterou oživila předvolební kampaň týmu Donalda Trumpa. ČR sice zatím neplní svůj závazek platit 2 % HDP na obranu, ale to nikterak neovlivňuje její rozhodovací pravomoc v otázce vlastního území."
+      "text": "Případná výstavba raketového štítu je plně v rukou české vlády. Navíc jde zatím pouze o spekulaci, kterou oživila předvolební kampaň Donalda Trumpa. ČR sice zatím neplní svůj závazek platit 2 % HDP na obranné výdaje, ale to nikterak neovlivňuje suverenitu našeho rozhodování."
     }
   ],
   "sources": [
     {
-      "title": "Alexandra Peťková, AMO",
-      "name": "kontext debaty o výstavbě radaru v letech 2006-2007",
-      "url": "https://www.amo.cz/rusko-a-americka-protiraketova-obrana-v-strednej-europe/"
+      "title": "AMO",
+      "name": "Americká základna – požehnání nebo trest?",
+      "url": "https://www.amo.cz/americka-zakladna-pozehnani-nebo-trest/"
     }, {
-      "title": "aktualne.cz",
-      "name": "Kontext postavení protiraketového štítu v Rumunsku",
-      "url": "https: //zpravy.aktualne.cz/zahranici/startuje-protiraketovy-stit-nato-nove-kolo-zbrojeni-zalezi-n/r~da3e6e661c0411e6bc7c0025900fea04/"
+      "title": "Aktualne.cz",
+      "name": "Štít NATO rozčílil Rusy. Proti stovkám ruských jaderných raket přitom nezmůže nic, míní experti",
+      "url": "https://zpravy.aktualne.cz/zahranici/startuje-protiraketovy-stit-nato-nove-kolo-zbrojeni-zalezi-n/r~da3e6e661c0411e6bc7c0025900fea04/"
     }, {
-      "title": "Český rozhlas",
-      "name": "Víceprezident USA Mike Pence se zmiňuje o dostavbě raketového štítu",
+      "title": "irozhlas.cz",
+      "name": "Viceprezident Mike Pence. Muž za Trumpem chce umístit v Česku protiraketový štít",
       "url": "https://www.irozhlas.cz/zpravy-ze-sveta/viceprezident-mike-pence-muz-za-trumpem-chce-umistit-v-cesku-protiraketovy-stit_1611090925"
     }, {
       "title": "Lenka Kovačovská, AMO",
-      "name": "Lenka Kovačovská, AMO, Geopolitický význam dostavby raketového štítu",
-      "url": "https://www.amo.cz/americka-zakladna-pozehnani-nebo-trest/"
+      "name": "Rusko a americká protiraketová obrana v Strednej Európe",
+      "url": "https://www.amo.cz/rusko-a-americka-protiraketova-obrana-v-strednej-europe/"
     }
   ]
 }, {
@@ -556,7 +573,7 @@
   "difficulty": 0,
   "place": "praha",
   "smileyType": 0,
-  "headline": "Odhalení: Tři ruští špioni\nmuseli ze země",
+  "headline": "Tři ruští špioni museli ze země",
   "tree": {
     "text": "Ruští špioni? To je zase nějaká kampaň, ne?",
     "answers": [
@@ -566,27 +583,27 @@
           "text": "To citujete poslední zprávu bezpečnostní informační služby (BIS) ČR?",
           "answers": [
             {
-              "text": "Přesně tak, zpráva BIS je v\ntomhle ohledu poměrně jednoznačná",
+              "text": "Přesně tak, zpráva BIS je v\ntomhle ohledu poměrně jednoznačná.",
               "score": 0,
               "evaluation": 0
             }, {
-              "text": "V Čechách působí nejsilněji čínská\na ruská zpravodajská služba",
+              "text": "V Čechách působí nejsilněji čínská\na ruská rozvědka.",
               "score": 1,
               "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Je to trochu zbytečného povyku,\nšpiony tady má každý",
+        "text": "Je to trochu zbytečný povyk,\nšpiony má u nás každý",
         "tree": {
-          "text": "To citujete poslední zprávu bezpečnostní informační služby (BIS) ČR?",
+          "text": "Opravdu? Četl jste zprávu české Bezpečnostní informační služby?",
           "answers": [
             {
-              "text": "Samozřejmě, věnuje se z největší části\nčínské zpravodajské službě",
+              "text": " Samozřejmě, nejvíc se věnuje\nčínské rozvědce.",
               "score": 0,
               "evaluation": 1
             }, {
-              "text": "Popravdě její nejvyznamnější část\nupozorňuje na silnou ruskou aktivitu",
+              "text": "Popravdě upozorňuje především\nna silnou ruskou aktivitu v ČR.",
               "score": 1,
               "evaluation": 1
             }, {
@@ -597,16 +614,16 @@
           ]
         }
       }, {
-        "text": "Popravdě ruská zpravodajská\naktivita je v Čechách nezvykle silná",
+        "text": "Popravdě je ruská zpravodajská aktivita\nna českém území nezvykle silná.",
         "tree": {
-          "text": "Prosím vás, o co by jim tady asi tak šlo?",
+          "text": "Prosím vás, mají tady stejné množství zaměstnanců jako ostatní.",
           "answers": [
             {
-              "text": "Ruská ambasáda ma nezvykle velký\npočet zaměstnanců. Produkuje\nhlavně propagandu",
+              "text": "Ruská ambasáda má nejvyšší počet\nzaměstnanců ze všech ambasád v ČR.",
               "score": 2,
               "evaluation": 2
             }, {
-              "text": "Hlavně o vyváženost informací.\nČeská média potřebují protiváhu.",
+              "text": "Americká nebo čínská ambasáda\nzde má více zaměstnanců.",
               "score": 0,
               "evaluation": 2
             }
@@ -619,29 +636,29 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Podle zprávy české Bezpečnostní a informační služby v roce 2015 dominovaly v Čechách svou aktivitou čínské a především ruské zpravodajské služby.  Ruská ambasáda zde pak významně nejvyší počet zaměstnanců. Je také pravdou, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
+      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější  čínské a především ruské zpravodajské služby.  Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Podle zprávy české Bezpečnostní a informační služby v roce 2015 dominovaly v Čechách svou aktivitou čínské a především ruské zpravodajské služby. Ruská ambasáda zde pak také má nejvyšší počet zaměstnanců. Je také pravdou, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
+      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější čínské a především ruské zpravodajské služby. Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) v roce 2015 dominovaly v Čechách svou aktivitou čínské a především ruské zpravodajské služby.  Ruská ambasáda zde má také ze všech ambasád nejsilnější zastoupení. Ruské zpravodajské služby dle BIS na našem území produkují především propagandu a dezinformační kampaň."
+      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější čínské a především ruské zpravodajské služby.  Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
     }
   ],
   "sources": [
     {
-      "title": "Bezpečnostní informační služba",
-      "name": "zpráva za rok 2015",
+      "title": "BIS",
+      "name": "Výroční zpráva Bezpečnostní informační služby za rok 2015",
       "url": "https://www.bis.cz/vyrocni-zprava890a.html?ArticleID=1104#_Toc378162430"
     }, {
       "title": "Česká televize",
-      "name": "Odhalení tří ruských špionů",
+      "name": "BIS odhalila tři ruské špiony, museli ze země",
       "url": "http://www.ceskatelevize.cz/ct24/domaci/1511004-bis-odhalila-tri-ruske-spiony-museli-ze-zeme"
     }, {
-      "title": "hlidacipes.org",
-      "name": "Rozhovor s ředitelem české kontrarozvědky",
+      "title": "Hlidacipes.org",
+      "name": "Exkluzivní rozhovor s ředitelem české kontrarozvědky BIS. Dezinformace, propaganda a ruský vliv v Česku",
       "url": "http://hlidacipes.org/exkluzivni-rozhovor-s-reditelem-ceske-kontrarozvedky-bis-o-dezinformacich-propagande-a-ruskem-vlivu-v-cesku/"
     }
   ]
@@ -655,36 +672,36 @@
     "text": "Prý, že se nás zhoršené vztahy s Ruskem nedotknou, a podívejte!",
     "answers": [
       {
-        "text": "Nesmysl. Ruských turistů sice ubylo,\nale celkově je v Čechách turismus\n na vzestupu",
+        "text": "Nesmysl. Ruských turistů je sice\nméně, ale celkově je u nás turismus\nna vzestupu.",
         "tree": {
           "text": "Vážně? I přes úbytek ruských turistů?",
           "answers": [
             {
-              "text": "Ano. V roce 2016 se v ČR ubytovalo\npřes 9 milionů hostů, jen necelých\n5 % bylo z Ruska",
+              "text": "Ano. V roce 2016 se v ČR ubytovalo\npřes 9 milionů hostů, jen necelých\n5% bylo z Ruska",
               "score": 2,
               "evaluation": 0
             }, {
-              "text": "Vážně, přesto však ruští turisté zůstávají\nnejpočetnější skupinou návštěvníků",
+              "text": "Vážně, i přesto však ruští turisté\nzůstávají nejpočetnější skupinou\nnávštěvníků.",
               "score": 1,
               "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Turistů v Čechách ubylo všeobecně,\nnejde jen o ty z Ruska…",
+        "text": "Turistů v Čechách ubylo všeobecně,\nnejde jen o ty z Ruska.",
         "evaluation": 1,
         "score": 0
       }, {
-        "text": "Ano, ale ruské turisty přece\nv Pardubicích nahradili turisté čínští",
+        "text": "Ano, ale ruské turisty v Pardubicích\nnahradili Číňané.",
         "tree": {
-          "text": "Proč pak na letiště dorazilo loni jen 31 tisíc návštěvníků?",
+          "text": "Proč potom na letiště loni dorazilo jen 31 tisíc návštěvníků?",
           "answers": [
             {
-              "text": "Turismu v Čechách ubývá celkově\nvzhledem k bezpečnostní situaci\nve světě",
+              "text": " Turistů u nás ubývá celkově kvůli\nzhoršení bezpečnosti ve světě",
               "score": 0,
               "evaluation": 2
             }, {
-              "text": "Pardubické letiště bylo přeci jen\nzasaženo úbytkem ruských turistů.",
+              "text": "Protože pardubické letiště přece\njen bylo zasaženo úbytkem\nruských turistů.",
               "score": 1,
               "evaluation": 2
             }
@@ -696,31 +713,31 @@
   "evaluations": [
     {
       "id": 0,
-      "type": "text",
-      "text": "Je pravda, že pardubické letiště bylo silně zaměřeno na ruskou klientelu a počet jeho návštěvníků radikálně klesnul.\n\nMomentálně láká lety z jiných destinací. Obecně je ale turismus v Čechách na vzestupu a dosahuje rekordních čísel přes 9 milionů ubytovaných ročně. Méně než 5 % pak představují ruští turisté."
+      "type": "eval_0_5",
+      "text": "Je pravda, že pardubické letiště bylo silně zaměřeno na ruskou klientelu a počet jeho návštěvníků radikálně klesl. Momentálně láká lety z jiných destinací. Obecně je ale turismus v ČR na vzestupu a dosahuje rekordních čísel přes 9 milionů ubytovaných ročně. Méně než 5 % pak představují ruští turisté."
     }, {
       "id": 1,
-      "type": "text",
-      "text": "To není pravda. Je pravda, že pardubické letiště bylo silně zaměřeno na ruskou klientelu a počet jeho návštěvníků radikálně klesnul.\n\nMomentálně láká lety z jiných destinací. Obecně je ale turismus v Čechách na vzestupu a dosahuje rekordních čísel přes 9 milionů ubytovaných ročně. Méně než 5 % pak představují ruští turisté."
+      "type": "eval_0_5",
+      "text": "To není pravda. Pardubické letiště bylo silně zaměřeno na ruskou klientelu a počet jeho návštěvníků radikálně klesl. Momentálně ale láká lety z jiných destinací. Obecně je turismus v ČR na vzestupu a dosahuje rekordních čísel přes 9 milionů ubytovaných ročně. Méně než 5 % pak představují ruští turisté."
     }, {
       "id": 2,
-      "type": "text",
-      "text": "Čínských turistů sice v Čechách přibývá (méně než 4 %), ale stále jich je méně než ruských (necelých 5 %) .\n\nJe pravda, že pardubické letiště bylo silně zaměřeno na ruskou klientelu a počet jeho návštěvníků radikálně klesnul. Momentálně láká lety z jiných destinací. Obecně je ale turismus v Čechách na vzestupu a dosahuje rekordních čísel."
+      "type": "eval_0_5",
+      "text": "Čínských turistů sice v ČR přibývá (3,8 %), ale stále jich je méně než ruských (4,4 %) . Je pravda, že pardubické letiště bylo silně zaměřeno na ruskou klientelu a počet jeho návštěvníků radikálně klesl. Momentálně ale láká lety z jiných destinací. Obecně je turismus u nás na vzestupu a dosahuje rekordních čísel."
     }
   ],
   "sources": [
     {
-      "title": "Český statistický úřad",
-      "name": "Cestovní ruch v roce 2016",
+      "title": "ČSÚ",
+      "name": "Návštěvnost se v roce 2016 opět zvýšila",
       "url": "https://www.czso.cz/documents/11350/34527354/ccru020817.docx/884bb2cc-342d-4c73-831f-ddd3249958e7?version=1.0"
     }, {
       "title": "idnes.cz",
-      "name": "Podrobnější popis poklesu zájmu o pardubické letiště",
+      "name": "Pardubické letiště věří, že na dně už bylo. Pomůže Petrohrad a Londýn",
       "url": "https://pardubice.idnes.cz/letiste-pardubice-cestujici-chybi-dr7-/pardubice-zpravy.aspx?c=A170310_2311289_pardubice-zpravy_jah"
     }, {
-      "title": "aktualne.cz",
-      "name": "Infografika cestovního ruchu v Čechách",
-      "url": "https://zpravy.aktualne.cz/ekonomika/turiste-v-cesku/r~39181512571f11e7898e002590604f2e/"
+      "title": "Aktualne.cz",
+      "name": " Do Česka míří rekordní počet turistů. Podívejte se, odkud přijíždějí a co je nejvíc láká",
+      "url": "https://zpravy.aktualne.cz/ekonomika/turiste-v-cesku/r~39181512571f11e7898e002590604f2e"
     }
   ]
 }, {
@@ -728,37 +745,37 @@
   "difficulty": 0,
   "place": "brn",
   "smileyType": 0,
-  "headline": "Hackeři napadli ministerstvo\nzahraničí. Kdo je viníkem?",
+  "headline": "Hackeři napadli ministerstvo. Vyřeší to\nnový úřad pro kybernetickou bezpečnost?",
   "tree": {
-    "text": "Vždyť jsme všem ukradení. Někdo chce zase jen navýšit počet úředníků!",
+    "text": "Vždyť jsme všem ukradení. Někdo chce zase jen v Brně navýšit počet úředníků!",
     "answers": [
       {
         "text": "Už se ví, že nešlo o hackerský\nútok, ale o nedbalost",
         "tree": {
-          "text": "Takže ty řeči o Ruském zapojení jsou lži?",
+          "text": "Takže ty řeči o ruské stopě jsou lži?",
           "answers": [
             {
-              "text": "Ano. Rusko se od jakékoli akce\nhlasitě distancovalo",
+              "text": " Ano. Rusko se od jakékoli\nakce hlasitě distancovalo.",
               "score": 1,
               "evaluation": 0
             }, {
-              "text": "Je to spíše kampaň, aby prošel\nnový zákon o kontrole internetu.",
+              "text": "Je to spíš kampaň, aby prošel\nnový zákon o kontrole internetu.",
               "score": 0,
               "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Je potřeba to řešit. Charakter útoku\nukazuje na zapojení cizího státu",
+        "text": "Je potřeba to řešit. Charakter útoku\nukazuje na zapojení cizího státu.",
         "tree": {
           "text": "Takže to není lež?",
           "answers": [
             {
-              "text": "Není, proto také vzniká v Brně nový\núřad pro kybernetickou bezpečnost",
+              "text": "Není, proto také v Brně vznikl nový\núřad pro kybernetickou bezpečnost.",
               "evaluation": 1,
               "score": 2
             }, {
-              "text": "Není, elektronická komunikace\nministerstev je do vyšetření\npozastavena",
+              "text": "Není, elektronická komunikace\nministerstev je do vyšetření pozastavena.",
               "evaluation": 1,
               "score": 1
             }
@@ -770,7 +787,7 @@
           "text": "Myslíte, že v tom má prsty Rusko?",
           "answers": [
             {
-              "text": "Nejde to jednoznačně potvrdit,\nale indície na to ukazují.",
+              "text": "Nejde to jednoznačně potvrdit.",
               "score": 2,
               "evaluation": 2
             }, {
@@ -787,34 +804,34 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Podobný útok představuje vážné ohrožení země. Ruské odmítnutí nic neprokazuje. Rozsah takového útoku ukazuje na zapojení státního aktéra.  Rusko má v ČR silné zastoupení zpravodajských služeb, což naznačuje, že mu země není „ukradená“.\n\nS kybernetickými útoky má také zkušenost z Ukrajinského konfliktu.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
+      "text": "Podobný útok představuje vážné ohrožení země. I proto vznikl v Brně nový Národní úřad pro kybernetickou a informační bezpečnost. Ruské odmítnutí nic neprokazuje. Rozsah útoku ukazuje na zapojení cizí státní moci.  Rusko má navíc v ČR silné zastoupení zpravodajských služeb a s kybernetickými útoky má zkušenost z Ukrajiny.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Podobný útok představuje vážné ohrožení země. Jelikož podobných útoků přibývá, vznikl v Brně nový Národní úřad pro kybernetickou bezpečnost. Rozsah takového útoku navíc ukazuje na zapojení státního aktéra.\n\nRusko má v ČR silné zastoupení zpravodajských služeb a zkušenost s kybernetickými útoky z Ukrajinského konfliktu.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
+      "text": "Podobný útok představuje vážné ohrožení země. I proto vznikl v Brně nový Národní úřad pro kybernetickou a informační bezpečnost. Rozsah útoku navíc ukazuje na zapojení cizí státní moci. Rusko má v ČR silné zastoupení zpravodajských služeb a zkušenost s kybernetickými útoky z Ukrajiny.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Řada zemí v Unii řeší podobné úniky informací.. Původ podobných útoků se velmi těžko dokazuje. Rozsah takového útoku však ukazuje na zapojení státního aktéra.  Rusko má v ČR silné zastoupení zpravodajských služeb, což naznačuje, že mu země není „ukradená“.\n\nS kybernetickými útoky má také zkušenost z Ukrajinského konfliktu.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
+      "text": "Řada zemí v EU řeší úniky informací,. jejich původ se ale velmi těžko dokazuje. I proto vznikl v Brně nový Národní úřad pro kybernetickou a informační bezpečnost. Rozsah však ukazuje na zapojení cizí státní moci.  Rusko má v ČR silné zastoupení zpravodajských služeb a s kybernetickými útoky má zkušenost z Ukrajiny.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
     }
   ],
   "sources": [
-    {
-      "title": "wired.com",
-      "name": "Kybernetická válka a Ukrajina",
-      "url": "https://www.wired.com/story/russian-hackers-attack-ukraine/"
-    }, {
+     {
       "title": "Respekt.cz",
       "name": "kontext hackerského útoku na ministerstvo zahraničí",
       "url": "https://www.respekt.cz/politika/e-maily-ministerstva-zahranici-napadli-hackeri-utok-zrejme-ridilo-rusko"
     }, {
-      "title": "novinky.cz",
-      "name": "Vyjádření ministra zahraničí",
+      "title": "Novinky.cz",
+      "name": "Hackeři napadli ministerstvo zahraničí. Útok přišel z Ruska, naznačil Zaorálek",
       "url": "https://www.novinky.cz/domaci/428006-hackeri-napadli-ministerstvo-zahranici-utok-prisel-z-ruska-naznacil-zaoralek.html"
     }, {
-      "title": "idnes.cz",
-      "name": "Kauza Putin na liberecké radnici nebyla trestným činem",
-      "url": "https://liberec.idnes.cz/policie-odlozila-kauzu-putin-djt-/liberec-zpravy.aspx?c=A140418_153544_liberec-zpravy_tm"
+      "title": "Česká televize",
+      "name": "Kybernetická bezpečnost ČR – pořad ČT",
+      "url": "http://www.ceskatelevize.cz/porady/11412378947-90-ct24/217411058130801/video/560106"
+    },{
+      "title": "Wired.com",
+      "name": "How an Entire Nation Become Russia´s  Test Lab for Cyberwar",
+      "url": "https://www.wired.com/story/russian-hackers-attack-ukraine/"
     }
   ]
 }, {
@@ -824,49 +841,41 @@
   "smileyType": 0,
   "headline": "Americké tajné služby: Rusko\novlivňovalo prezidentské volby",
   "tree": {
-    "text": "Dneska za vším každý vidí Rusko!  Není důvod, proč by to dělalo",
+    "text": "Dneska vidí každý za vším Rusko! Ovlivnění našich voleb se nemusíme bát.",
     "answers": [
       {
-        "text": "Existuje řada podezření, že tyto útoky\nprovádí systematicky i v okolních zemích",
+        "text": "Existuje řada podezření, že Rusko\nzasahuje do voleb v jiných státech.",
         "tree": {
           "text": "Jako kde?",
           "answers": [
             {
-              "text": "Ve Francii během voleb zveřejněním\nfalešných dokumentů o kandidátovi",
+              "text": "Ve Francii během voleb zveřejněním\nfalešných dokumentů o jednom\nz kandidátů.",
               "score": 2,
               "evaluation": 0
             }, {
-              "text": "V USA nabouráním emailu prezidentské\nkandidátky",
-              "score": 2,
-              "evaluation": 0
-            }, {
-              "text": "Útokem na web státních institucí během\nvoleb na Ukrajině.",
-              "score": 2,
+              "text": "Třeba u nás zablokováním\ninternetového hlasování.",
+              "score": 0,
               "evaluation": 0
             }
           ]
         }
       }, {
-        "text": "Je pravda, že je to politický boj.\nProtiruská politika sbírá hlasy.",
+        "text": "Je to jen politický boj, důkazy neexistují.\nProtiruská politika sbírá hlasy.",
         "evaluation": 1,
         "score": 0
       }, {
-        "text": "Jsme členskou zemí EU a NATO.\nNaše nestabilita by oslabila\nobě organizace.",
+        "text": " Jsme členskou zemí EU a NATO.\nNaše napadení by oslabilo\nobě organizace.",
         "tree": {
           "text": "Jak by nás Rusko mohlo ve volbách oslabit?",
           "answers": [
             {
-              "text": "Útokem na státní instituce,\nčímž zpochybní důvěru ve volby\njako na Ukrajině",
-              "score": 2,
-              "evaluation": 2
+              "text": "Zablokováním internetového hlasování.",
+              "score": 0,
+              "evaluation": 0
             }, {
-              "text": "Může zveřejnit falešné informace\no vybraném kandidátu jako\nve Francii",
+              "text": "Může zveřejnit falešné informace\no vybraných kandidátech jako\nve Francii.",
               "score": 2,
-              "evaluation": 2
-            }, {
-              "text": "Může cíleně zveřejňovat kompromitující\nmateriály o kandidátu jako v USA",
-              "score": 2,
-              "evaluation": 2
+              "evaluation": 0
             }
           ]
         }
@@ -877,30 +886,27 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Každý ze zmiňovaných tří případů je ve skutečnosti spojován s činností hackerů napojených nějakým způsobem na ruský stát a může být způsobem, jak by se dali volby ovlivnit.\n\nPřímé zmanipulování výsledku v ČR je nepravděpodobné, jelikož volby neprobíhají elektronicky a při zjištěném narušení může dojít k přepočítání hlasů. Na možné pokusy o ovlivnění voleb se česká vláda připravuje."
+      "text": " Uvedený případ z Francie se stal a je spojován s činností hackerů napojených na Rusko, podobně jako útoky na kandidátku Demokratické strany během amerických voleb.  Šíření kompromitujících nebo falešných zpráv může být jedním ze způsobu, jak volby u nás ovlivnit. Přímé zmanipulování výsledků je v ČR nepravděpodobné, jelikož volby neprobíhají elektronicky a při narušení může dojít k přepočítání hlasů. Na možné pokusy o ovlivnění voleb se český stát připravuje."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Česká republika je členskou zemí NATO a EU. Zájem Ruska o ČR dokládá například silné aktivity ruských zpravodajských služeb. Řada evropských zemích navíc Rusko podezřívá z vazeb na hackery, kteří stáli za kybernetickými útoky na demokratické volby, například Francie nebo Ukrajina. Přímé zmanipulování výsledku v ČR je nepravděpodobné, jelikož volby neprobíhají elektronicky, pravděpodobnější je diskreditace samotného procesu. Na možné pokusy o ovlivnění voleb se česká vláda připravuje."
-    }, {
-      "id": 2,
-      "type": "text",
-      "text": "Každý ze zmiňovaných tří případů je ve skutečnosti spojován s činností hackerů napojených nějakým způsobem na ruský stát a může být způsobem, jak by se dali volby ovlivnit.\n\nPřímé zmanipulování výsledku v ČR je nepravděpodobné, jelikož volby neprobíhají elektronicky a při zjištěném narušení může dojít k přepočítání hlasů. Na možné pokusy o ovlivnění voleb se česká vláda připravuje."
+      "text": "Česká republika je členskou zemí NATO a EU. Zájem Ruska o ČR dokládají například aktivity ruských zpravodajských služeb. Řada evropských zemí navíc Rusko podezřívá z vazeb na hackery, kteří stáli za kybernetickými útoky na demokratické volby ve Francii a v USA. Přímé zmanipulování výsledků v ČR je nepravděpodobné, jelikož volby neprobíhají elektronicky, pravděpodobnější je diskreditace samotného procesu. Na možné pokusy o ovlivnění voleb se český stát připravuje."
     }
   ],
   "sources": [
+     {
+    "title": "Respekt.cz",
+    "name": "Ovlivnění českých voleb není hypotetická možnost, ale reálná hrozba",
+    "url": "https://www.respekt.cz/politika/ovlivneni-ceskych-voleb-neni-hypoteticka-moznost-ale-realna-hrozba"
+    },
     {
-      "title": "guardian.com",
-      "name": "Případ Macron - pokus o zdiskreditování francouzského prezidentského kandidáta",
+      "title": "Guardian.com",
+      "name": "Macron hackers linked to Russian-affiliated group behind US attack",
       "url": "https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack"
     }, {
-      "title": "wired.com",
-      "name": "Širší pohled na kybernetickou válku na Ukrajině",
+      "title": "Wired.com",
+      "name": "How an Entire Nation Become Russia´s  Test Lab for Cyberwar",
       "url": "https://www.wired.com/story/russian-hackers-attack-ukraine/"
-    }, {
-      "title": "respekt.cz",
-      "name": "Rozhovor s českým ministrem obrany o kybernetických hrozbách",
-      "url": "https://www.respekt.cz/politika/ovlivneni-ceskych-voleb-neni-hypoteticka-moznost-ale-realna-hrozba"
     }
   ]
 }, {
@@ -908,7 +914,7 @@
   "difficulty": 0,
   "place": "kralo",
   "smileyType": 0,
-  "headline": "Rusko má u hranic EU rakety\nschopné nést jaderné hlavice",
+  "headline": "Hrozba? Rusko rozmístilo u hranic\nEU rakety schopné nést jaderné hlavice",
   "tree": {
     "text": "Nám přece nic nehrozí, rakety jsou pouze preventivním opatřením.",
     "answers": [
@@ -922,7 +928,7 @@
               "score": 2,
               "evaluation": 0
             }, {
-              "text": "Rusko  nacvičuje pravidelně\ninvazi do zemí v Pobaltí",
+              "text": "Rusko  nacvičuje pravidelně\ninvazi do Pobaltí",
               "score": 2,
               "evaluation": 0
             }, {
@@ -933,16 +939,16 @@
           ]
         }
       }, {
-        "text": "Ano, je to běžné rutinní cvičení\npřesunu jednotek",
+        "text": "Ano, je to jen běžné rutinní\ncvičení, které NATO dělá také.",
         "tree": {
           "text": "A co ta silná prohlášení o jaderných útocích na Norsko nebo Dánsko?",
           "answers": [
             {
-              "text": " To se nás netýká, to cílí\nna Ameriku a její spojence",
+              "text": "To se nás netýká, to cílí\nna Ameriku a její spojence",
               "evaluation": 1,
               "score": 0
             }, {
-              "text": "To spíš dokládá, že vztahy mezi NATO\na Ruskem jsou momentálně napjaté",
+              "text": "To je jen proto, že vztahy mezi NATO\na Ruskem jsou momentálně napjaté.",
               "evaluation": 1,
               "score": 1
             }
@@ -954,7 +960,7 @@
           "text": "A ten nějak Moskvu ohrožuje?",
           "answers": [
             {
-              "text": "Ne, štít je obranný, a nemá\nani kapacitu čelit teoretickému\nútoku Moskvy",
+              "text": "Ne, štít je obranný, a nemá\nani kapacitu čelit teoretickému\nútoku Ruska",
               "score": 2,
               "evaluation": 2
             }, {
@@ -971,34 +977,35 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Vzhledem k Ukrajinské krizi a situaci v Sýrii jsou vztahy mezi Ruskem a NATO, jehož jsme součástí, nejnapjatější od konce Studené války. Rusko přistoupilo ve své rétorice na výhružky jadernými zbraněmi vůči státům, jejichž akce mu nevyhovují. Z toho důvodu je rozmístění těchto raket dalším vyhrocením vzájemných vztahů."
+      "text": "Vzhledem ke krizi na Ukrajině a situaci v Sýrii jsou vztahy mezi Ruskem a NATO, jehož jsme součástí, nejnapjatější od konce studené války. Rusko přistoupilo ve své rétorice na výhrůžky jadernými zbraněmi vůči státům, jejichž akce mu nevyhovují. Z toho důvodu je rozmístění těchto raket dalším vyhrocením vzájemných vztahů."
     }, {
       "id": 1,
       "type": "text",
-      "text": "Ruské vztahy s našimi spojenci v NATO jsou nejnapjatější od konce Studené války. Jakákoli konfrontace s našimi spojenci v NATO je zároveň konfrontací také s námi. Rusko navíc ve své rétorice přistoupilo v poslední době k hrozbám jadernými zbraněmi.  Rozmístění těchto raket jen stupňuje vzniklé napětí."
+      "text": "Ruské vztahy s našimi spojenci v NATO jsou nejnapjatější od konce studené války. Jakákoli konfrontace s našimi spojenci v NATO je zároveň konfrontací s námi. Rusko navíc ve své rétorice přistoupilo v poslední době k hrozbě jaderným útokem.  Rozmístění raket jen dál stupňuje napětí."
     }, {
       "id": 2,
       "type": "text",
-      "text": "Rusko potvrdilo, že přesun těchto raket k hranicím EU je reakcí na nový protiraketový štít NATO. Ten však má spíše obranný charakter a nemá ani kapacitu odrazit případný ruský raketový útok. Rusko v poslední době vyhrožuje evropským státům použitím jaderných zbraní. Rozmístění těchto raket tak jen stupňuje vzniklé napětí."
+      "text": "Rusko potvrdilo, že přesun těchto raket k hranicím NATO je reakcí na nový protiraketový štít NATO. Ten má však spíše obranný charakter a nemá kapacitu odrazit případný ruský raketový útok. Rusko v poslední době vyhrožuje evropským státům použitím jaderných zbraní. Rozmístění raket dál jen stupňuje napětí."
     }
   ],
   "sources": [
     {
-      "title": "Oficiální portál NATO",
-      "name": "O napjatých vztazích s Ruskem",
+      "title": "Aktualne.cz",
+      "name": "Štít NATO rozčílil Rusy. Proti stovkám ruských jaderných raket přitom nezmůže nic, míní experti",
+      "url": "https://zpravy.aktualne.cz/zahranici/startuje-protiraketovy-stit-nato-nove-kolo-zbrojeni-zalezi-n/r~da3e6e661c0411e6bc7c0025900fea04/?redirected=1506423177"
+    },
+    {
+      "title": "Informační centrum o NATO",
+      "name": "Rusko a NATO si vyměnily informace o cvičeních. Ukrajina je stále problém",
       "url": "http://www.natoaktual.cz/rusko-a-nato-si-vymenily-informace-o-cvicenich-ukrajina-je-stale-problem-1o1-/na_zpravy.aspx?c=A170717_195418_na_zpravy_m00"
     }, {
       "title": "E15.cz",
-      "name": "Rusko přesurnulo rakety Iskander do Kaliningradu",
+      "name": "Rusko přesunulo rakety Iskander do Kaliningradské oblasti, prý nejde o nic neobvyklého",
       "url": "http://zpravy.e15.cz/zahranicni/udalosti/rusko-presunulo-rakety-iskander-do-kaliningradske-oblasti-pry-nejde-o-nic-neobvykleho-1323629"
     }, {
-      "title": "Independent.co.uk",
-      "name": "Rusko vyhrožuje Dánsku jaderným útokem",
-      "url": "http://www.independent.co.uk/news/world/europe/russia-threatens-denmark-with-nuclear-weapons-if-it-tries-to-join-nato-defence-shield-10125529.html"
-    }, {
-      "title": "aktualne.cz",
-      "name": "komentář odborníka k novému štítu NATO ",
-      "url": "https://zpravy.aktualne.cz/zahranici/startuje-protiraketovy-stit-nato-nove-kolo-zbrojeni-zalezi-n/r~da3e6e661c0411e6bc7c0025900fea04/?redirected=1506423177"
+      "title": "Reuters",
+      "name": "Russia threatens to aim nuclear missiles at Denmark ships if it joins NATO shield",
+      "url": "https://www.reuters.com/article/us-denmark-russia/russia-threatens-to-aim-nuclear-missiles-at-denmark-ships-if-it-joins-nato-shield-idUSKBN0MI0ML20150322"
     }
   ]
 }, {
@@ -1006,41 +1013,41 @@
   "difficulty": 0,
   "place": "ust",
   "smileyType": 0,
-  "headline": "Česko je prakticky plně závislé\nna ruském plynu, máme se obávat?",
+  "headline": "Česko je plně závislé\nna ruském plynu, máme se bát?",
   "tree": {
-    "text": "Hloupost, naším dodavatelem je sice Rusko, ale jsme mnohem nezávislejší než dřív.",
+    "text": "Hloupost, jedním z našich dodavatelů je sice Rusko, ale jsme mnohem nezávislejší než dřív.",
     "answers": [
       {
-        "text": "Nikoliv, v roce 2010 jsme dováželi\n20% plynu z Norska, dnes sotva 5%",
+        "text": "Nemáte pravdu, v roce 2010 jsme\ndováželi 20% plynu z Norska,\ndnes sotva 5%",
         "score": 0,
         "evaluation": 0
       }, {
-        "text": "To ano, hlavně protože jsme rozšířili naše\nzásobníky plynu a propojení s Evropou",
+        "text": "To ano, hlavně proto, že jsme rozšířili\nzásobníky plynu a propojili se s EU",
         "tree": {
-          "text": "Rusko si navíc ekonomicky nemůže dovolit přerušit dodávky plynu",
+          "text": "Rusko si navíc ekonomicky nemůže dovolit přerušit nám dodávky plynu.",
           "answers": [
             {
-              "text": " To může, naše zásobníky zatím stále\nnedostačují na delší než měsíční krizi",
+              "text": "To může, naše zásobníky zatím stále\nnedostačují na delší než měsíční krizi",
               "evaluation": 1,
               "score": 1
             }, {
-              "text": "To spíše nemůže. Jsme navíc\npropojenější skrz síť plynovodů s Evropou",
+              "text": "Spíše nemůže. Jsme navíc\npropojenější skrz síť plynovodů se\nstáty EU.",
               "evaluation": 1,
               "score": 2
             }
           ]
         }
       }, {
-        "text": "Dovážíme přece oproti roku 2010\ntřikrát více plynu z Německa",
+        "text": "Dovážíme přece třikrát víc plynu\nz Německa než v roce 2010.",
         "tree": {
-          "text": "To ano, ale to je jen přeprodaný ruský plyn na německé burze",
+          "text": "To ano, ale jde jen o ruský plyn přeprodaný na německé burze.",
           "answers": [
             {
-              "text": "Takže nejsme nezávislejší než dřív.",
+              "text": "Takže jsme stejně závislí jako dřív.",
               "score": 0,
               "evaluation": 2
             }, {
-              "text": "Takže mělo efekt to, že se dostavěly\nnové zásobníky plynu a plynovody",
+              "text": "Pomohla nám spíše dostavba nových\nzásobníků plynu a plynovodů.",
               "score": 2,
               "evaluation": 2
             }
@@ -1053,29 +1060,29 @@
     {
       "id": 0,
       "type": "eval_0_3",
-      "text": "To je sice pravda, ale plyn dovážený z Norska byl a je původem ruský, stejně jako plyn dovážený z Německa. Česká republika ale navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů. Rusko je navíc na svém vývozu plynu ekonomicky závislé. Proti výpadkům dodávek plynu jsme nezávislejší než dříve."
+      "text": "To je sice pravda, ale země původu plynu je v zásadě bezpředmětná. Dovážený plyn se prodává na trhu za tržní ceny, čímž se depolitizuje. Podstatnější je, že Česká republika navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů obcházejících Rusko. Jsme tak lépe připraveni na výpadky dodávek plynu. Rusko je navíc na vývozu plynu silně ekonomicky závislé."
     }, {
       "id": 1,
       "type": "eval_0_3",
-      "text": "Česká republika oproti krizi v roce 2008 navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů. Rusko je navíc na svém vývozu plynu ekonomicky silně závislé. Dá se tedy říct, že jsme oproti výpadkům dodávek plynu nezávislejší než dřív a jsme připraveni čelit případné krizi delší dobu."
+      "text": "Česká republika navýšila oproti krizi v roce 2008 kapacitu svých zásobníků plynu, která nyní pokryje spotřebu plynu až na třetinu roku. V Evropě se rozšířila síť plynovodů obcházejících Rusko. Jsme tak lépe připraveni na výpadky dodávek plynu. Rusko je navíc na vývozu plynu silně ekonomicky závislé."
     }, {
       "id": 2,
       "type": "eval_0_3",
-      "text": "Plyn dovážený z Norska a Německa do ČR je vesměs ruského původu. Je to umožněno volnějším obchodem s touto komoditou a širším propojením České republiky na evropskou síť plynovodů. Rusko je navíc na svém vývozu plynu silně závislé. Dá se tedy říct, že jsme proti výpadkům dodávek plynu nezávislejší než dřív."
+      "text": "Země původu plynu je v zásadě bezpředmětná. Dovážený plyn se prodává na trhu za tržní ceny, čímž se depolitizuje. Podstatnější je, že Česká republika navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů obcházejících Rusko. Jsme tak lépe připraveni na výpadky dodávek plynu. Rusko je navíc na vývozu plynu silně ekonomicky závislé."
     }
   ],
   "sources": [
     {
-      "title": "idnes.cz",
+      "title": "iDnes.cz",
       "name": "Česku zůstal jen ruský plyn, přesto je nezávislejší než dřív",
       "url": "https://ekonomika.idnes.cz/ceska-republika-plyn-rusko-zavislost-zasobniky-fup-/ekonomika.aspx?c=A160319_211823_ekonomika_ane"
     }, {
-      "title": "oenergetice.cz",
+      "title": "oEnergetice.cz",
       "name": "Rusky plyn produi do Česka již půlstoletí",
       "url": "http://oenergetice.cz/plyn/rusky-plyn-proudi-do-ceska-jiz-pul-stoleti/ http://oenergetice.cz/plyn/rusky-plyn-proudi-do-ceska-jiz-pul-stoleti/"
     }, {
       "title": "Ministerstvo průmyslu a obchodu",
-      "name": "údaje o energetické bezpečnosti ČR z roku 2008 ",
+      "name": "Zabezpečení dodávek zemního plynu do ČR",
       "url": "https://www.mpo.cz/zprava41190.html"
     }
   ]

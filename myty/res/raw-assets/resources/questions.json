@@ -109,7 +109,7 @@
       "text": "Takovými akcemi si zbytečně zhoršujeme vztahy s Ruskem! Krym byl a je legálně ruský.",
       "answers": [
         {
-          "text": "Ano, byla to zbytečná akce, ale aspoň za to radnici můžeme hnát k odpovědnosti.",
+          "text": "Ano, byla to zbytečná akce, ale aspoň za\nto radnici můžeme hnát k odpovědnosti.",
           "tree": {
             "text": "Takže chcete říct, že to bylo nelegální?",
             "answers": [
@@ -141,7 +141,7 @@
             ]
           }
         }, {
-          "text": "Legálně? Akce ruských vojáků na Krymu jsou v rozporu s mezinárodním právem.",
+          "text": "Legálně? Akce ruských vojáků na Krymu\njsou v rozporu s mezinárodním právem.",
           "tree": {
             "text": "Žádní ruští vojáci na Krymu nebyli!",
             "answers": [
@@ -208,7 +208,7 @@
     "difficulty": 0,
     "place": "budej",
     "smileyType": 2,
-    "headline": "Bezpečnostní riziko?  Kdo dostaví jaderné bloky Temelína?",
+    "headline": "Bezpečnostní riziko? Kdo dostaví jaderné bloky Temelína?",
     "tree": {
       "text": "Dostavět Temelín? Tak to určitě bez Ruska, to je riskantní.",
       "answers": [
@@ -233,7 +233,7 @@
             ]
           }
         }, {
-          "text": "Také myslím, že by bezpečnostně-politická  rizika měla být kritériem výběru.",
+          "text": "Také myslím, že by bezpečnostně-politická rizika měla být kritériem výběru.",
           "tree": {
             "text": "Neriskujeme ale pak horší kvalitu dostavby?",
             "answers": [
@@ -394,7 +394,7 @@
       }, {
         "id": 1,
         "type": "text",
-        "text": "Při  pravidelně se opakujících hlasováních o prodloužení sankcí je česká vláda autonomní. Svůj postup koordinuje se svými spojenci v rámci EU a NATO. Samotný dopad sankcí na rostoucí českou ekonomiku je minimální a nemá na zaměstnanost vliv. I před uvalením sankcí byl vzájemný obchod zhruba osmkrát menší než obchodní výměna ČR s Německem."
+        "text": "Při pravidelně se opakujících hlasováních o prodloužení sankcí je česká vláda autonomní. Svůj postup koordinuje se svými spojenci v rámci EU a NATO. Samotný dopad sankcí na rostoucí českou ekonomiku je minimální a nemá na zaměstnanost vliv. I před uvalením sankcí byl vzájemný obchod zhruba osmkrát menší než obchodní výměna ČR s Německem."
       }, {
         "id": 2,
         "type": "text",
@@ -501,7 +501,7 @@
           }, {
             "id": 1,
             "type": "text",
-            "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Zmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel.  Je ale pravda, že podnětem byla situace v Karlových Varech. Vzhledem k oslabení ruské ekonomiky však Rusů ve Varech dlouhodobě spíše ubývá. Tento trend se ale letos začíná obracet."
+            "text": "Přítomnost menšiny na nějakém území automaticky neznamená její nárok na odtržení. Zmiňovaný návrh na regulaci cizojazyčné reklamy v roce 2016 parlamentem neprošel. Je ale pravda, že podnětem byla situace v Karlových Varech. Vzhledem k oslabení ruské ekonomiky však Rusů ve Varech dlouhodobě spíše ubývá. Tento trend se ale letos začíná obracet."
           }, {
             "id": 2,
             "type": "text",
@@ -613,7 +613,7 @@
       }, {
         "id": 1,
         "type": "text",
-        "text": "Ruské vztahy s našimi spojenci v NATO jsou nejnapjatější od konce studené války. Jakákoli konfrontace s našimi spojenci v NATO je zároveň konfrontací s námi. Rusko navíc ve své rétorice v poslední době často zmiňuje jaderné zbraně.  Rozmístění raket jen dál stupňuje napětí."
+        "text": "Ruské vztahy s našimi spojenci v NATO jsou nejnapjatější od konce studené války. Jakákoli konfrontace s našimi spojenci v NATO je zároveň konfrontací s námi. Rusko navíc ve své rétorice v poslední době často zmiňuje jaderné zbraně. Rozmístění raket jen dál stupňuje napětí."
       }, {
         "id": 2,
         "type": "text",
@@ -896,7 +896,7 @@
     {
       "id": 0,
       "type": "text",
-      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější  čínské a především ruské zpravodajské služby.  Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
+      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější čínské a především ruské zpravodajské služby. Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
     }, {
       "id": 1,
       "type": "text",
@@ -904,7 +904,7 @@
     }, {
       "id": 2,
       "type": "text",
-      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější čínské a především ruské zpravodajské služby.  Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
+      "text": "Podle zprávy české Bezpečnostní a informační služby (BIS) byly v roce 2015 v ČR nejaktivnější čínské a především ruské zpravodajské služby. Ruská ambasáda zde má také ze všech velvyslanectví největší počet diplomatů. Je také pravda, že v posledních letech bylo z českého území vyhoštěno několik ruských špionů pod diplomatickým krytím."
     }
   ],
   "sources": [
@@ -970,7 +970,7 @@
                 "evaluation": 1,
                 "score": 2
               }, {
-                "text": "Není,  elektronická komunikace ministerstev je do vyšetření pozastavena.",
+                "text": "Není, elektronická komunikace ministerstev je do vyšetření pozastavena.",
                 "evaluation": 1,
                 "score": 1
               }
@@ -999,15 +999,15 @@
       {
         "id": 0,
         "type": "text",
-        "text": "Podobný útok představuje vážné ohrožení země. I proto vznikl v Brně Národní úřad pro kybernetickou a informační bezpečnost. Ruské odmítnutí nic neprokazuje. Rozsah útoku ukazuje na zapojení cizí státní moci.  Rusko má navíc v ČR silné zastoupení zpravodajských služeb a s kybernetickými útoky má zkušenost z Ukrajiny.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
+        "text": "Podobný útok představuje vážné ohrožení země. I proto vznikl v Brně Národní úřad pro kybernetickou a informační bezpečnost. Ruské odmítnutí nic neprokazuje. Rozsah útoku ukazuje na zapojení cizí státní moci. Rusko má navíc v ČR silné zastoupení zpravodajských služeb a s kybernetickými útoky má zkušenost z Ukrajiny. Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
       }, {
         "id": 1,
         "type": "text",
-        "text": "Podobný útok představuje vážné ohrožení země. I proto vznikl v Brně Národní úřad pro kybernetickou a informační bezpečnost. Rozsah útoku navíc ukazuje na zapojení cizí státní moci. Rusko má v ČR silné zastoupení zpravodajských služeb a zkušenost s kybernetickými útoky z Ukrajiny.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
+        "text": "Podobný útok představuje vážné ohrožení země. I proto vznikl v Brně Národní úřad pro kybernetickou a informační bezpečnost. Rozsah útoku navíc ukazuje na zapojení cizí státní moci. Rusko má v ČR silné zastoupení zpravodajských služeb a zkušenost s kybernetickými útoky z Ukrajiny. Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
       }, {
         "id": 2,
         "type": "text",
-        "text": "Řada zemí v EU řeší úniky informací. Jejich původ se ale velmi těžko dokazuje. I proto vznikl v Brně Národní úřad pro kybernetickou a informační bezpečnost. Rozsah však ukazuje na zapojení cizí státní moci.  Rusko má v ČR silné zastoupení zpravodajských služeb a s kybernetickými útoky má zkušenost z Ukrajiny.  Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
+        "text": "Řada zemí v EU řeší úniky informací. Jejich původ se ale velmi těžko dokazuje. I proto vznikl v Brně Národní úřad pro kybernetickou a informační bezpečnost. Rozsah však ukazuje na zapojení cizí státní moci. Rusko má v ČR silné zastoupení zpravodajských služeb a s kybernetickými útoky má zkušenost z Ukrajiny. Jeho zapojení naznačil také ministr zahraničí. K oficiálnímu potvrzení původu útoku však nedošlo."
       }
     ],
     "sources": [
@@ -1026,7 +1026,7 @@
         "url": "https://www.novinky.cz/domaci/428006-hackeri-napadli-ministerstvo-zahranici-utok-prisel-z-ruska-naznacil-zaoralek.html"
       },{
         "title": "Wired.com",
-        "name": "How an Entire Nation Become Russia´s  Test Lab for Cyberwar",
+        "name": "How an Entire Nation Become Russia´s Test Lab for Cyberwar",
         "url": "https://www.wired.com/story/russian-hackers-attack-ukraine/"
       }
     ]
@@ -1068,7 +1068,7 @@
             ]
           }
         }, {
-          "text": "Je to jen politický boj, důkazy neexistují. Protiruská politika sbírá hlasy.",
+          "text": "Je to jen politický boj, důkazy neexistují.\nProtiruská politika sbírá hlasy.",
           "evaluation": 1,
           "score": 0
         }, {
@@ -1094,7 +1094,7 @@
       {
         "id": 0,
         "type": "text",
-        "text": "Uvedený případ z Francie se stal a je spojován s činností hackerů napojených na Rusko, podobně jako útoky na kandidátku Demokratické strany během amerických voleb.  Šíření kompromitujících nebo falešných zpráv může být jedním ze způsobu, jak volby u nás ovlivnit. Přímé zmanipulování výsledků je v ČR nepravděpodobné, jelikož volby neprobíhají elektronicky a při narušení může dojít k přepočítání hlasů. Na možné pokusy o ovlivnění voleb se český stát připravuje."
+        "text": "Uvedený případ z Francie se stal a je spojován s činností hackerů napojených na Rusko, podobně jako útoky na kandidátku Demokratické strany během amerických voleb. Šíření kompromitujících nebo falešných zpráv může být jedním ze způsobu, jak volby u nás ovlivnit. Přímé zmanipulování výsledků je v ČR nepravděpodobné, jelikož volby neprobíhají elektronicky a při narušení může dojít k přepočítání hlasů. Na možné pokusy o ovlivnění voleb se český stát připravuje."
       }, {
         "id": 1,
         "type": "text",
@@ -1113,7 +1113,7 @@
         "url": "https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack"
       }, {
         "title": "Wired.com",
-        "name": "How an Entire Nation Become Russia´s  Test Lab for Cyberwar",
+        "name": "How an Entire Nation Become Russia´s Test Lab for Cyberwar",
         "url": "https://www.wired.com/story/russian-hackers-attack-ukraine/"
       }
     ]
@@ -1136,7 +1136,7 @@
           "score": 0,
           "evaluation": 0
         }, {
-          "text": "To ano, hlavně proto, že jsme rozšířili zásobníky plynu a propojili se s EU",
+          "text": "To ano, hlavně proto, že jsme rozšířili\nzásobníky plynu a propojili se s EU",
           "tree": {
             "text": "Rusko si navíc ekonomicky nemůže dovolit přerušit nám dodávky plynu.",
             "answers": [
@@ -1244,7 +1244,7 @@
       {
         "id": 0,
         "type": "eval_0_4",
-        "text": "Ruských studentů za posledních 15 let přibylo dvacetinásobně a jsou po Slovácích nejčastějšími cizinci na vysokých školách. Zahraniční studenti studující v češtině nemusejí platit školné, musejí však uspět u přijímacích zkoušek.. Na soukromých vysokých školách Rusové často studují, protože tak jednoduše získají povolení k pobytu. Neexistuje přesná statistika o tom, kolik Rusů v ČR po studiu zůstane a kolik se vrací s vazbami na ČR zpět do Ruska."
+        "text": "Ruských studentů za posledních 15 let přibylo dvacetinásobně a jsou po Slovácích nejčastějšími cizinci na vysokých školách. Zahraniční studenti studující v češtině nemusejí platit školné, musejí však uspět u přijímacích zkoušek... Na soukromých vysokých školách Rusové často studují, protože tak jednoduše získají povolení k pobytu. Neexistuje přesná statistika o tom, kolik Rusů v ČR po studiu zůstane a kolik se vrací s vazbami na ČR zpět do Ruska."
       }
     ],
     "sources": [
@@ -1439,7 +1439,7 @@
         {
           "text": "Právně ne, Rusko a EU spolu nemají podepsanou dohodu na ochranu označení původu.",
           "tree": {
-            "text": "Ani ve chvíli, kdy  se pivo jmenuje„Praha“ a nevaří se podle naší receptury?",
+            "text": "Ani ve chvíli, kdy se pivo jmenuje „Praha“ a nevaří se podle naší receptury?",
             "answers": [
               {
                 "text": "Název „Praha“ už postižitelný je. Stejně tak jiná receptura vaření piva.",
@@ -1450,7 +1450,7 @@
                 "evaluation": 0,
                 "score": 2
               }, {
-                "text": "Název Praha postižitelný je, ale receptura se dodržovat nemusí.",
+                "text": "Název „Praha“ postižitelný je, ale receptura se dodržovat nemusí.",
                 "evaluation": 0,
                 "score": 0
               }
@@ -1545,7 +1545,7 @@
       {
         "id": 0,
         "type": "text",
-        "text": "S ruským prezidentem se letos v Rusku potkala například německá kancléřka Angela Merkelová nebo předseda Evropské komise Jean-Claude Juncker. Kontroverzní není pozvání do Ruska, ale okolnosti, za kterých k němu  došlo. Český prezident samotné pozvání označil za své vyznamenání, což lze v kontextu ruské agrese vůči Ukrajině a silně napjatých vztahů, které panují mezi západem a Ruskem, považovat ze nevhodné."
+        "text": "S ruským prezidentem se letos v Rusku potkala například německá kancléřka Angela Merkelová nebo předseda Evropské komise Jean-Claude Juncker. Kontroverzní není pozvání do Ruska, ale okolnosti, za kterých k němu došlo. Český prezident samotné pozvání označil za své vyznamenání, což lze v kontextu ruské agrese vůči Ukrajině a silně napjatých vztahů, které panují mezi západem a Ruskem, považovat za nevhodné."
       }
     ],
     "sources": [
@@ -1615,7 +1615,7 @@
       {
         "id": 1,
         "type": "text",
-        "text": "Prohlášení majitelů o budoucnosti firmy z Kunovic jsou protichůdná a vše naznačuje tomu, že bude fungovat v obou zemích. Odbyt jejich letadel je silně závislý na ruském trhu, který je dnes oslaben. Také s ohledem na dnešní dotace ruské vlády na podporu výroby na ruském území  firma otevřela výrobní závod v Rusku. Zároveň ale získala půlmiliardovou investiční pobídku na vývoj nového letadla od české vlády za podmínky, že výroba zůstane v Česku."
+        "text": "Prohlášení majitelů o budoucnosti firmy z Kunovic jsou protichůdná a vše naznačuje tomu, že bude fungovat v obou zemích. Odbyt jejich letadel je silně závislý na ruském trhu, který je dnes oslaben. Také s ohledem na dnešní dotace ruské vlády na podporu výroby na ruském území firma otevřela výrobní závod v Rusku. Zároveň ale získala půlmiliardovou investiční pobídku na vývoj nového letadla od české vlády za podmínky, že výroba zůstane v Česku."
       }
     ],
     "sources": [

@@ -213,7 +213,7 @@
       "text": "Dostavět Temelín? Tak to určitě bez Ruska, to je riskantní.",
       "answers": [
         {
-          "text": "To není pravda, žádná bezpečnostně-politická rizika nehrozí.",
+          "text": "To není pravda, žádná bezpečnostně\n-politická rizika nehrozí.",
           "tree": {
             "text": "Nepřijde vám? S těmi všemi problémy v poslední době…",
             "answers": [
@@ -545,7 +545,7 @@
     "id": 5,
     "difficulty": 0,
     "place": "kralo",
-    "smileyType": 0,
+    "smileyType": 3,
     "headline": "Hrozba? Rusko rozmístilo u hranic EU rakety schopné nést jaderné hlavice",
     "tree": {
       "text": "Nám přece nic nehrozí, rakety jsou pouze preventivním opatřením.",
@@ -648,7 +648,7 @@
     "id": 6,
     "difficulty": 0,
     "place": "stredoce",
-    "smileyType": 0,
+    "smileyType": 2,
     "headline": "Nový radar v Brdech? Trump oživuje starou debatu.",
     "tree": {
       "text": "Není to zbytečné? Vždyť by to poškodilo naše vztahy s Ruskem.",
@@ -832,7 +832,7 @@
   "id": 8,
   "difficulty": 0,
   "place": "praha",
-  "smileyType": 0,
+  "smileyType": 2,
   "headline": "Tři ruští špioni museli ze země",
   "tree": {
     "text": "Ruští špioni? To je zase nějaká kampaň, ne?",
@@ -939,7 +939,7 @@
     "id": 9,
     "difficulty": 0,
     "place": "brn",
-    "smileyType": 0,
+    "smileyType": 3,
     "headline": "Hackeři napadli ministerstvo. Vyřeší to\nnový úřad pro kybernetickou bezpečnost?",
     "tree": {
       "text": "Vždyť jsme všem ukradení. Někdo chce zase jen v Brně navýšit počet úředníků!",
@@ -1126,7 +1126,7 @@
     "id": 11,
     "difficulty": 0,
     "place": "ust",
-    "smileyType": 0,
+    "smileyType": 2,
     "headline": "Česko je plně závislé na ruském plynu, máme se bát?",
     "tree": {
       "text": "Hloupost, jedním z našich dodavatelů je sice Rusko, ale jsme mnohem nezávislejší než dřív.",
@@ -1365,7 +1365,7 @@
     "id": 14,
     "difficulty": 0,
     "place": "zlin",
-    "smileyType": 1,
+    "smileyType": 2,
     "headline": "Tradiční potravinářské firmě z Kunovic přinesl ruský trh v roce 2016 10% všech zisků, zruinují firmu další sankce?",
     "tree": {
       "text": "Nejhorší je, že i kdyby se sankce zrušily, naši dobrou pozici už zpátky nezískáme.",
@@ -1393,7 +1393,7 @@
           "evaluation": 1
         },
         {
-          "text": "Orientovat se na ruský trh bylo riskantní rozhodnutí firmy, které bohužel nevyšlo.",
+          "text": "Orientovat se na ruský trh bylo riskantní\nrozhodnutí firmy, které bohužel nevyšlo.",
           "score": 0,
           "evaluation": 1
         }
@@ -1507,7 +1507,7 @@
     "id": 16,
     "difficulty": 0,
     "place": "pra",
-    "smileyType": 1,
+    "smileyType": 2,
     "headline": "Zeman přijal Putinovo pozvání do Ruska, považuje to za vyznamenání",
     "tree": {
       "text": "To taky je. Nikdo z představitelů EU se s Putinem letos takto cíleně nepotkal.",
@@ -1572,7 +1572,7 @@
     "id": 17,
     "difficulty": 0,
     "place": "zlin",
-    "smileyType": 1,
+    "smileyType": 3,
     "headline": "Výroba tradičních českých letadel z Kunovic se přesouvá do Ruska!",
     "tree": {
       "text": "Firma má dnes ruského majitele a vyváží hlavně do Ruska, je to asi přirozené.",
@@ -1651,8 +1651,8 @@
   {
     "id": 18,
     "difficulty": 0,
-    "place": "zlin",
-    "smileyType": 1,
+    "place": "brn",
+    "smileyType": 0,
     "headline": "Noční vlci, kontroverzní ruští motorkáři  projedou Brnem a Prahou",
     "tree": {
       "text": "Nechápu snahy je zastavit, vždyť jedou jen uctít padlé vojáky!",
@@ -1731,7 +1731,7 @@
     "id": 19,
     "difficulty": 0,
     "place": "stred",
-    "smileyType": 1,
+    "smileyType": 3,
     "headline": "Hrozí cenzura? Začalo fungovat Centrum proti terorismu a hybridním hrozbám",
     "tree": {
       "text": "To je ta obrana proti ruským dezinformacím? Internet má být svobodný!",
@@ -1895,7 +1895,7 @@
     "id": 21,
     "difficulty": 0,
     "place": "olom",
-    "smileyType": 1,
+    "smileyType": 2,
     "headline": "Kontroverzní dějiny: ruská televize vytvořila dokument o srpnu 68",
     "tree": {
       "text": "Jak těm povídačkám o plánovaném převratu NATO v Československu může ještě někdo věřit?",
@@ -2051,6 +2051,7 @@
     "id": 23,
     "difficulty": 0,
     "place": "budej",
+    "smileyType": 3,
     "headline": "Budějovický rodák Remek předčasně opouští funkci českého velvyslance v Moskvě.",
     "tree": {
       "text": "Vždyť je to jedno. Zeman ho stejně na schůzky s Putinem nebral.",

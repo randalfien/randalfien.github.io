@@ -664,7 +664,7 @@
                 "evaluation": 0
               }, {
                 "text": "Ta samozřejmě způsobila řadu protestů.",
-                "score": 1,
+                "score": 2,
                 "evaluation": 0
               }
             ]
@@ -1205,7 +1205,7 @@
   {
     "id": 12,
     "difficulty": 0,
-    "place": "brn",
+    "place": "olom",
     "smileyType": 1,
     "headline": "Rusů na českých univerzitách přibývá. Studují v češtině a zdarma!",
     "tree": {
@@ -1244,7 +1244,7 @@
       {
         "id": 0,
         "type": "eval_0_4",
-        "text": "Ruských studentů za posledních 15 let přibylo dvacetinásobně a jsou po Slovácích nejčastějšími cizinci na vysokých školách. Zahraniční studenti studující v češtině nemusejí platit školné, musejí však uspět u přijímacích zkoušek... Na soukromých vysokých školách Rusové často studují, protože tak jednoduše získají povolení k pobytu. Neexistuje přesná statistika o tom, kolik Rusů v ČR po studiu zůstane a kolik se vrací s vazbami na ČR zpět do Ruska."
+        "text": "Ruských studentů za posledních 15 let přibylo dvacetinásobně a jsou po Slovácích nejčastějšími cizinci na vysokých školách. Zahraniční studenti studující v češtině nemusí platit školné, musí však uspět u přijímacích zkoušek. Na soukromých vysokých školách Rusové často studují, protože tak jednoduše získají povolení k pobytu. Neexistuje přesná statistika o tom, kolik Rusů v ČR po studiu zůstane a kolik se vrací s vazbami na ČR zpět do Ruska."
       }
     ],
     "sources": [
@@ -1434,7 +1434,7 @@
     "smileyType": 1,
     "headline": "„Trpké a prázdné“: Pověst českého piva v Rusku ohrožují padělky",
     "tree": {
-      "text": "To se nedá nic dělat. Přece nemůžete na pivo napsat „Skutečné pivo z Čech“ jen tak.",
+      "text": "To se nedá nic dělat? Přece nemůžete na pivo napsat „Skutečné pivo z Čech“ jen tak.",
       "answers": [
         {
           "text": "Právně ne, Rusko a EU spolu nemají podepsanou dohodu na ochranu označení původu.",
@@ -1730,7 +1730,7 @@
   {
     "id": 19,
     "difficulty": 0,
-    "place": "stred",
+    "place": "prah",
     "smileyType": 3,
     "headline": "Hrozí cenzura? Začalo fungovat Centrum proti terorismu a hybridním hrozbám",
     "tree": {
@@ -2076,7 +2076,7 @@
         {
           "text": "To je sice pravda, ale velvyslanec je tradiční součástí prezidentské delegace v zemi, kde působí.",
           "tree": {
-            "text": "Proč to  bylo v Rusku jinak?",
+            "text": "Proč to bylo v Rusku jinak?",
             "answers": [
               {
                 "text": "Neúčast velvyslance na tak důležitých jednáních oprávněně vzbuzuje pochybnosti.",

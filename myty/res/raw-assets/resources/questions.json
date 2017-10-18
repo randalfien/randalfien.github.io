@@ -246,7 +246,7 @@
                 "score": 1,
                 "evaluation": 1
               }, {
-                "text": "To ne, Rosatom ale zakázku splní ve spolupráci s českými firmami.",
+                "text": "Kvalita bude podobná, ruská firma ale zakázku splní ve spolupráci s českými firmami.",
                 "score": 2,
                 "evaluation": 1
               }
@@ -325,7 +325,7 @@
     "smileyType": 3,
     "headline": "Lidé nemají práci! Ruské sankce ničí ekonomiku",
     "tree": {
-      "text": "Sankce? Kvůli takovým jako vy tady lidi nemají práci!",
+      "text": "Sankce? Kvůli nim tady lidi nemají práci!",
       "answers": [
         {
           "text": "Sankce a úbytek pracovních míst spolu přece prakticky nesouvisí.",
@@ -1192,7 +1192,7 @@
         "url": "https://ekonomika.idnes.cz/ceska-republika-plyn-rusko-zavislost-zasobniky-fup-/ekonomika.aspx?c=A160319_211823_ekonomika_ane"
       }, {
         "title": "oEnergetice.cz",
-        "name": "Rusky plyn produi do Česka již půlstoletí",
+        "name": "Rusky plyn proudí do Česka již půlstoletí",
         "url": "http://oenergetice.cz/plyn/rusky-plyn-proudi-do-ceska-jiz-pul-stoleti/ http://oenergetice.cz/plyn/rusky-plyn-proudi-do-ceska-jiz-pul-stoleti/"
       }, {
         "title": "Ministerstvo průmyslu a obchodu",
@@ -1244,7 +1244,7 @@
       {
         "id": 0,
         "type": "eval_0_4",
-        "text": "Ruských studentů za posledních 15 let přibylo dvacetinásobně a jsou po Slovácích nejčastějšími cizinci na vysokých školách. Zahraniční studenti studující v češtině nemusí platit školné, musí však uspět u přijímacích zkoušek. Na soukromých vysokých školách Rusové často studují, protože tak jednoduše získají povolení k pobytu. Neexistuje přesná statistika o tom, kolik Rusů v ČR po studiu zůstane a kolik se vrací s vazbami na ČR zpět do Ruska."
+        "text": "Ruských studentů za posledních 15 let přibylo dvacetinásobně a jsou po Slovácích nejčastějšími cizinci na vysokých školách. Zahraniční studenti studující v češtině nemusí platit školné, musí však uspět u přijímacích zkoušek. Na soukromých vysokých školách Rusové často studují, aby získali povolení k pobytu. Neexistuje přesná statistika o tom, kolik Rusů v ČR po studiu zůstane a kolik se vrací s vazbami na ČR zpět do Ruska."
       }
     ],
     "sources": [
@@ -1311,7 +1311,7 @@
         {
           "text": "Mícháte trochu dohromady jablka a hrušky.",
           "tree": {
-            "text": "Proč? Jedno budeme rušit a druhé si tady necháme?",
+            "text": "Proč? Když už rušit, tak snad všechno.",
             "answers": [
               {
                 "text": "Je to sice podobné, ale není způsob, jak Ostravský dům a Dny Ruska zrušit.",
@@ -1434,7 +1434,7 @@
     "smileyType": 1,
     "headline": "„Trpké a prázdné“: Pověst českého piva v Rusku ohrožují padělky",
     "tree": {
-      "text": "To se nedá nic dělat? Přece nemůžete na pivo napsat „Skutečné pivo z Čech“ jen tak.",
+      "text": "Každý přece nemůže svoje pivo jen tak označovat jako „Skutečné pivo z Čech“. To se nedá nic dělat?",
       "answers": [
         {
           "text": "Právně ne, Rusko a EU spolu nemají podepsanou dohodu na ochranu označení původu.",
@@ -1592,7 +1592,7 @@
                 "evaluation": 1,
                 "score": 2
               }, {
-                "text": "To by nejspíš bylo nejspíš proti mezinárodnímu právu.",
+                "text": "To by bylo nejspíš proti mezinárodnímu právu.",
                 "evaluation": 1,
                 "score": 0
               }
@@ -1763,7 +1763,7 @@
                 "evaluation": 0,
                 "score": 2
               }, {
-                "text": "Lidé nemusejí kriticky přemýšlet, což jen narušuje náladu ve společnosti.",
+                "text": "Lidé pak nemusejí kriticky přemýšlet a internet se stane bezpečným.",
                 "evaluation": 0,
                 "score": 0
               }
@@ -1820,7 +1820,7 @@
     "smileyType": 1,
     "headline": "Podle proruských dezinformačních webů je prý Chomutov peklem na zemi",
     "tree": {
-      "text": "Tyhle lži náš vyloženě poškozují. Dezinformační weby by měly být zrušeny.",
+      "text": "Tyhle lži nás vyloženě poškozují. Dezinformační weby by měly být zrušeny.",
       "answers": [
         {
           "text": "Existuje pořád svoboda slova. Navíc by to bylo kontraproduktivní.",
@@ -1901,7 +1901,7 @@
       "text": "Jak těm povídačkám o plánovaném převratu NATO v Československu může ještě někdo věřit?",
       "answers": [
         {
-          "text": "Právně se nic nezměnilo, Rusko proti Západu zasáhnout muselo, i když je to dnes kontroverzní.",
+          "text": "Rusko proti Západu v Československu zasáhnout muselo, i když je to dnes kontroverzní.",
           "score": 0,
           "evaluation": 0
         },
@@ -1972,7 +1972,7 @@
     "smileyType": 1,
     "headline": "Třetí konvoj britských a amerických vojáků opustil ČR v Náchodě",
     "tree": {
-      "text": "Cizí vojska na našem území, to už tady bylo!",
+      "text": "Cizí vojska na našem území, to už tady bylo! Přijde vám to normální?",
       "answers": [
         {
           "text": "Jsou to sice spojenci, ale měli s námi přejezd alespoň konzultovat.",
@@ -2052,9 +2052,9 @@
     "difficulty": 0,
     "place": "budej",
     "smileyType": 3,
-    "headline": "Budějovický rodák Remek předčasně opouští funkci českého velvyslance v Moskvě.",
+    "headline": "Budějovický rodák Remek předčasně opouští funkci velvyslance v Moskvě.",
     "tree": {
-      "text": "Vždyť je to jedno. Zeman ho stejně na schůzky s Putinem nebral.",
+      "text": "Zeman ho stejně na schůzky s Putinem nebral. Není to pak jedno?",
       "answers": [
         {
           "text": "Je na prezidentovi, koho na svá zahraniční jednání vezme.",
@@ -2074,16 +2074,16 @@
           }
         },
         {
-          "text": "To je sice pravda, ale velvyslanec je tradiční součástí prezidentské delegace v zemi, kde působí.",
+          "text": "Není to jedno, velvyslanec je tradiční součástí prezidentské delegace v zemi, kde působí.",
           "tree": {
-            "text": "Proč to bylo v Rusku jinak?",
+            "text": "Proč to bylo v Rusku jinak? Nemůže to pozici našeho velvyslance oslabit?",
             "answers": [
               {
                 "text": "Neúčast velvyslance na tak důležitých jednáních oprávněně vzbuzuje pochybnosti.",
                 "evaluation": 0,
                 "score": 2
               }, {
-                "text": "V tomto konkrétním případě jde o osobní spory.",
+                "text": "V tomto konkrétním případě jde jen o osobní spory.",
                 "evaluation": 0,
                 "score": 1
               }

@@ -868,7 +868,7 @@
               "evaluation": 1
             }, {
               "text": "Varuje především před čínskou a americkou aktivitou na našem území.",
-              "score": 1,
+              "score": 0,
               "evaluation": 1
             }
           ]
@@ -1173,15 +1173,15 @@
     "evaluations": [
       {
         "id": 0,
-        "type": "eval_0_3",
+        "type": "text",
         "text": "To je sice pravda, ale země původu plynu je v zásadě bezpředmětná. Dovážený plyn se prodává na trhu za tržní ceny, čímž se depolitizuje. Podstatnější je, že český energetický mix je vyvážený a Česká republika  je tak lépe připravena na výpadky dodávek plynu. Rusko je navíc na vývozu plynu silně ekonomicky závislé."
       }, {
         "id": 1,
-        "type": "eval_0_3",
+        "type": "text",
         "text": "Česká republika navýšila oproti krizi v roce 2008 kapacitu svých zásobníků plynu, která nyní pokryje spotřebu plynu až na třetinu roku. V Evropě se rozšířila síť plynovodů. Jsme tak lépe připraveni na výpadky dodávek plynu. Rusko je navíc na vývozu plynu silně ekonomicky závislé."
       }, {
         "id": 2,
-        "type": "eval_0_3",
+        "type": "text",
         "text": "Země původu plynu je v zásadě bezpředmětná. Dovážený plyn se prodává na trhu za tržní ceny, čímž se depolitizuje. Podstatnější je, že Česká republika navýšila kapacitu svých zásobníků plynu a v Evropě se rozšířila síť plynovodů. Jsme tak lépe připraveni na výpadky dodávek plynu. Rusko je navíc na vývozu plynu silně ekonomicky závislé."
       }
     ],

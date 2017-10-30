@@ -39,55 +39,403 @@ canvas {
   background-color: rgba(0, 0, 0, 0);
 }
 
-@media all and (max-width: 480px) {
-    canvas {
-        width: 480px;
-        height: 300px;
-    }
-    
-    #GameDiv {
-      width: 480px;
-      height: 300px;
-    }
+@media all and (max-width: 105px) and (min-width: 97px){
+canvas {
+    width: 97px;
+    height: 60px;
 }
 
-@media all and (max-width: 800px) and (min-width: 641px){
-    canvas {
-        width: 640px;
-        height: 400px;
-    }
-    
-    #GameDiv {
-      width: 640px;
-      height: 400px;
-    }
+#GameDiv {
+  width: 97px;
+  height: 60px;
+}
 }
 
-@media all and (max-width: 1280px) and (min-width: 801px) {
-    canvas {
-        width: 800px;
-        height: 480px;
-    }
-    
-    #GameDiv {
-      width: 800px;
-      height: 450px;
-    }
+@media all and (max-width: 115px) and (min-width: 106px){
+canvas {
+    width: 106px;
+    height: 66px;
 }
 
-@media all and (max-width: 1880px) and (min-width: 1281px) {
-    canvas {
-        width: 1280px;
-        height: 800px;
-    }
-    
-    #GameDiv {
-      width: 1280px;
-      height: 800px;
-    }
+#GameDiv {
+  width: 106px;
+  height: 66px;
+}
 }
 
-@media screen and (min-width: 1881px) {
+@media all and (max-width: 126px) and (min-width: 116px){
+canvas {
+    width: 116px;
+    height: 72px;
+}
+
+#GameDiv {
+  width: 116px;
+  height: 72px;
+}
+}
+
+@media all and (max-width: 137px) and (min-width: 127px){
+canvas {
+    width: 127px;
+    height: 79px;
+}
+
+#GameDiv {
+  width: 127px;
+  height: 79px;
+}
+}
+
+@media all and (max-width: 149px) and (min-width: 138px){
+canvas {
+    width: 138px;
+    height: 86px;
+}
+
+#GameDiv {
+  width: 138px;
+  height: 86px;
+}
+}
+
+@media all and (max-width: 162px) and (min-width: 150px){
+canvas {
+    width: 150px;
+    height: 93px;
+}
+
+#GameDiv {
+  width: 150px;
+  height: 93px;
+}
+}
+
+@media all and (max-width: 177px) and (min-width: 163px){
+canvas {
+    width: 163px;
+    height: 101px;
+}
+
+#GameDiv {
+  width: 163px;
+  height: 101px;
+}
+}
+
+@media all and (max-width: 193px) and (min-width: 178px){
+canvas {
+    width: 178px;
+    height: 111px;
+}
+
+#GameDiv {
+  width: 178px;
+  height: 111px;
+}
+}
+
+@media all and (max-width: 210px) and (min-width: 194px){
+canvas {
+    width: 194px;
+    height: 121px;
+}
+
+#GameDiv {
+  width: 194px;
+  height: 121px;
+}
+}
+
+@media all and (max-width: 229px) and (min-width: 211px){
+canvas {
+    width: 211px;
+    height: 131px;
+}
+
+#GameDiv {
+  width: 211px;
+  height: 131px;
+}
+}
+
+@media all and (max-width: 249px) and (min-width: 230px){
+canvas {
+    width: 230px;
+    height: 143px;
+}
+
+#GameDiv {
+  width: 230px;
+  height: 143px;
+}
+}
+
+@media all and (max-width: 271px) and (min-width: 250px){
+canvas {
+    width: 250px;
+    height: 156px;
+}
+
+#GameDiv {
+  width: 250px;
+  height: 156px;
+}
+}
+
+@media all and (max-width: 295px) and (min-width: 272px){
+canvas {
+    width: 272px;
+    height: 170px;
+}
+
+#GameDiv {
+  width: 272px;
+  height: 170px;
+}
+}
+
+@media all and (max-width: 321px) and (min-width: 296px){
+canvas {
+    width: 296px;
+    height: 185px;
+}
+
+#GameDiv {
+  width: 296px;
+  height: 185px;
+}
+}
+
+@media all and (max-width: 349px) and (min-width: 322px){
+canvas {
+    width: 322px;
+    height: 201px;
+}
+
+#GameDiv {
+  width: 322px;
+  height: 201px;
+}
+}
+
+@media all and (max-width: 380px) and (min-width: 350px){
+canvas {
+    width: 350px;
+    height: 218px;
+}
+
+#GameDiv {
+  width: 350px;
+  height: 218px;
+}
+}
+
+@media all and (max-width: 414px) and (min-width: 381px){
+canvas {
+    width: 381px;
+    height: 238px;
+}
+
+#GameDiv {
+  width: 381px;
+  height: 238px;
+}
+}
+
+@media all and (max-width: 451px) and (min-width: 415px){
+canvas {
+    width: 415px;
+    height: 259px;
+}
+
+#GameDiv {
+  width: 415px;
+  height: 259px;
+}
+}
+
+@media all and (max-width: 491px) and (min-width: 452px){
+canvas {
+    width: 452px;
+    height: 282px;
+}
+
+#GameDiv {
+  width: 452px;
+  height: 282px;
+}
+}
+
+@media all and (max-width: 534px) and (min-width: 492px){
+canvas {
+    width: 492px;
+    height: 307px;
+}
+
+#GameDiv {
+  width: 492px;
+  height: 307px;
+}
+}
+
+@media all and (max-width: 581px) and (min-width: 535px){
+canvas {
+    width: 535px;
+    height: 334px;
+}
+
+#GameDiv {
+  width: 535px;
+  height: 334px;
+}
+}
+
+@media all and (max-width: 632px) and (min-width: 582px){
+canvas {
+    width: 582px;
+    height: 363px;
+}
+
+#GameDiv {
+  width: 582px;
+  height: 363px;
+}
+}
+
+@media all and (max-width: 688px) and (min-width: 633px){
+canvas {
+    width: 633px;
+    height: 395px;
+}
+
+#GameDiv {
+  width: 633px;
+  height: 395px;
+}
+}
+
+@media all and (max-width: 748px) and (min-width: 689px){
+canvas {
+    width: 689px;
+    height: 430px;
+}
+
+#GameDiv {
+  width: 689px;
+  height: 430px;
+}
+}
+
+@media all and (max-width: 814px) and (min-width: 749px){
+canvas {
+    width: 749px;
+    height: 468px;
+}
+
+#GameDiv {
+  width: 749px;
+  height: 468px;
+}
+}
+
+@media all and (max-width: 885px) and (min-width: 815px){
+canvas {
+    width: 815px;
+    height: 509px;
+}
+
+#GameDiv {
+  width: 815px;
+  height: 509px;
+}
+}
+
+@media all and (max-width: 962px) and (min-width: 886px){
+canvas {
+    width: 886px;
+    height: 553px;
+}
+
+#GameDiv {
+  width: 886px;
+  height: 553px;
+}
+}
+
+@media all and (max-width: 1046px) and (min-width: 963px){
+canvas {
+    width: 963px;
+    height: 601px;
+}
+
+#GameDiv {
+  width: 963px;
+  height: 601px;
+}
+}
+
+@media all and (max-width: 1138px) and (min-width: 1047px){
+canvas {
+    width: 1047px;
+    height: 654px;
+}
+
+#GameDiv {
+  width: 1047px;
+  height: 654px;
+}
+}
+
+@media all and (max-width: 1237px) and (min-width: 1139px){
+canvas {
+    width: 1139px;
+    height: 711px;
+}
+
+#GameDiv {
+  width: 1139px;
+  height: 711px;
+}
+}
+
+@media all and (max-width: 1345px) and (min-width: 1238px){
+canvas {
+    width: 1238px;
+    height: 773px;
+}
+
+#GameDiv {
+  width: 1238px;
+  height: 773px;
+}
+}
+
+@media all and (max-width: 1480px) and (min-width: 1346px){
+canvas {
+    width: 1346px;
+    height: 841px;
+}
+
+#GameDiv {
+  width: 1346px;
+  height: 841px;
+}
+}
+
+@media all and (max-width: 1880px) and (min-width: 1481px){
+canvas {
+    width: 1480px;
+    height: 925px;
+}
+
+#GameDiv {
+  width: 1480px;
+  height: 925px;
+}
+}
+
+@media all and (min-width: 1881px) {
     canvas {
         width: 1600px;
         height: 1000px;

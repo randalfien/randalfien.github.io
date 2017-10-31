@@ -39,19 +39,7 @@ canvas {
   background-color: rgba(0, 0, 0, 0);
 }
 
-@media all and (max-width: 105px) and (min-width: 97px){
-canvas {
-    width: 87px;
-    height: 54px;
-}
-
-#GameDiv {
-  width: 87px;
-  height: 54px;
-}
-}
-
-@media all and (max-width: 115px) and (min-width: 106px){
+@media all and (max-width: 105px) and (min-width: 95px) and (orientation: portrait) {
 canvas {
     width: 95px;
     height: 59px;
@@ -63,55 +51,91 @@ canvas {
 }
 }
 
-@media all and (max-width: 126px) and (min-width: 116px){
+@media all and (max-width: 105px) and (min-width: 95px) and (orientation: landscape) {
 canvas {
-    width: 104px;
-    height: 65px;
+    width: 85px;
+    height: 53px;
 }
 
 #GameDiv {
-  width: 104px;
-  height: 65px;
+  width: 85px;
+  height: 53px;
 }
 }
 
-@media all and (max-width: 137px) and (min-width: 127px){
+@media all and (max-width: 117px) and (min-width: 106px) and (orientation: portrait) {
 canvas {
-    width: 114px;
-    height: 71px;
+    width: 106px;
+    height: 66px;
 }
 
 #GameDiv {
-  width: 114px;
-  height: 71px;
+  width: 106px;
+  height: 66px;
 }
 }
 
-@media all and (max-width: 149px) and (min-width: 138px){
+@media all and (max-width: 117px) and (min-width: 106px) and (orientation: landscape) {
 canvas {
-    width: 124px;
-    height: 77px;
+    width: 95px;
+    height: 59px;
 }
 
 #GameDiv {
-  width: 124px;
-  height: 77px;
+  width: 95px;
+  height: 59px;
 }
 }
 
-@media all and (max-width: 162px) and (min-width: 150px){
+@media all and (max-width: 130px) and (min-width: 118px) and (orientation: portrait) {
 canvas {
-    width: 135px;
-    height: 84px;
+    width: 118px;
+    height: 73px;
 }
 
 #GameDiv {
-  width: 135px;
-  height: 84px;
+  width: 118px;
+  height: 73px;
 }
 }
 
-@media all and (max-width: 177px) and (min-width: 163px){
+@media all and (max-width: 130px) and (min-width: 118px) and (orientation: landscape) {
+canvas {
+    width: 106px;
+    height: 66px;
+}
+
+#GameDiv {
+  width: 106px;
+  height: 66px;
+}
+}
+
+@media all and (max-width: 145px) and (min-width: 131px) and (orientation: portrait) {
+canvas {
+    width: 131px;
+    height: 81px;
+}
+
+#GameDiv {
+  width: 131px;
+  height: 81px;
+}
+}
+
+@media all and (max-width: 145px) and (min-width: 131px) and (orientation: landscape) {
+canvas {
+    width: 117px;
+    height: 73px;
+}
+
+#GameDiv {
+  width: 117px;
+  height: 73px;
+}
+}
+
+@media all and (max-width: 162px) and (min-width: 146px) and (orientation: portrait) {
 canvas {
     width: 146px;
     height: 91px;
@@ -123,303 +147,495 @@ canvas {
 }
 }
 
-@media all and (max-width: 193px) and (min-width: 178px){
+@media all and (max-width: 162px) and (min-width: 146px) and (orientation: landscape) {
 canvas {
-    width: 160px;
-    height: 100px;
+    width: 131px;
+    height: 81px;
 }
 
 #GameDiv {
-  width: 160px;
-  height: 100px;
+  width: 131px;
+  height: 81px;
 }
 }
 
-@media all and (max-width: 210px) and (min-width: 194px){
+@media all and (max-width: 181px) and (min-width: 163px) and (orientation: portrait) {
 canvas {
-    width: 174px;
-    height: 108px;
+    width: 163px;
+    height: 101px;
 }
 
 #GameDiv {
-  width: 174px;
-  height: 108px;
+  width: 163px;
+  height: 101px;
 }
 }
 
-@media all and (max-width: 229px) and (min-width: 211px){
+@media all and (max-width: 181px) and (min-width: 163px) and (orientation: landscape) {
 canvas {
-    width: 189px;
-    height: 118px;
+    width: 146px;
+    height: 91px;
 }
 
 #GameDiv {
-  width: 189px;
-  height: 118px;
+  width: 146px;
+  height: 91px;
 }
 }
 
-@media all and (max-width: 249px) and (min-width: 230px){
+@media all and (max-width: 202px) and (min-width: 182px) and (orientation: portrait) {
 canvas {
-    width: 207px;
-    height: 129px;
+    width: 182px;
+    height: 113px;
 }
 
 #GameDiv {
-  width: 207px;
-  height: 129px;
+  width: 182px;
+  height: 113px;
 }
 }
 
-@media all and (max-width: 271px) and (min-width: 250px){
+@media all and (max-width: 202px) and (min-width: 182px) and (orientation: landscape) {
 canvas {
-    width: 225px;
-    height: 140px;
+    width: 163px;
+    height: 101px;
 }
 
 #GameDiv {
-  width: 225px;
-  height: 140px;
+  width: 163px;
+  height: 101px;
 }
 }
 
-@media all and (max-width: 295px) and (min-width: 272px){
+@media all and (max-width: 225px) and (min-width: 203px) and (orientation: portrait) {
 canvas {
-    width: 244px;
-    height: 152px;
+    width: 203px;
+    height: 126px;
 }
 
 #GameDiv {
-  width: 244px;
-  height: 152px;
+  width: 203px;
+  height: 126px;
 }
 }
 
-@media all and (max-width: 321px) and (min-width: 296px){
+@media all and (max-width: 225px) and (min-width: 203px) and (orientation: landscape) {
 canvas {
-    width: 266px;
-    height: 166px;
+    width: 182px;
+    height: 113px;
 }
 
 #GameDiv {
-  width: 266px;
-  height: 166px;
+  width: 182px;
+  height: 113px;
 }
 }
 
-@media all and (max-width: 349px) and (min-width: 322px){
+@media all and (max-width: 251px) and (min-width: 226px) and (orientation: portrait) {
 canvas {
-    width: 289px;
-    height: 180px;
+    width: 226px;
+    height: 141px;
 }
 
 #GameDiv {
-  width: 289px;
-  height: 180px;
+  width: 226px;
+  height: 141px;
 }
 }
 
-@media all and (max-width: 380px) and (min-width: 350px){
+@media all and (max-width: 251px) and (min-width: 226px) and (orientation: landscape) {
 canvas {
-    width: 315px;
-    height: 196px;
+    width: 203px;
+    height: 126px;
 }
 
 #GameDiv {
-  width: 315px;
-  height: 196px;
+  width: 203px;
+  height: 126px;
 }
 }
 
-@media all and (max-width: 414px) and (min-width: 381px){
+@media all and (max-width: 279px) and (min-width: 252px) and (orientation: portrait) {
 canvas {
-    width: 342px;
-    height: 213px;
+    width: 252px;
+    height: 157px;
 }
 
 #GameDiv {
-  width: 342px;
-  height: 213px;
+  width: 252px;
+  height: 157px;
 }
 }
 
-@media all and (max-width: 451px) and (min-width: 415px){
+@media all and (max-width: 279px) and (min-width: 252px) and (orientation: landscape) {
 canvas {
-    width: 373px;
-    height: 233px;
+    width: 226px;
+    height: 141px;
 }
 
 #GameDiv {
-  width: 373px;
-  height: 233px;
+  width: 226px;
+  height: 141px;
 }
 }
 
-@media all and (max-width: 491px) and (min-width: 452px){
+@media all and (max-width: 310px) and (min-width: 280px) and (orientation: portrait) {
 canvas {
-    width: 406px;
-    height: 253px;
+    width: 280px;
+    height: 175px;
 }
 
 #GameDiv {
-  width: 406px;
-  height: 253px;
+  width: 280px;
+  height: 175px;
 }
 }
 
-@media all and (max-width: 534px) and (min-width: 492px){
+@media all and (max-width: 310px) and (min-width: 280px) and (orientation: landscape) {
 canvas {
-    width: 442px;
-    height: 276px;
+    width: 252px;
+    height: 157px;
 }
 
 #GameDiv {
-  width: 442px;
-  height: 276px;
+  width: 252px;
+  height: 157px;
 }
 }
 
-@media all and (max-width: 581px) and (min-width: 535px){
+@media all and (max-width: 345px) and (min-width: 311px) and (orientation: portrait) {
 canvas {
-    width: 481px;
-    height: 300px;
+    width: 311px;
+    height: 194px;
 }
 
 #GameDiv {
-  width: 481px;
-  height: 300px;
+  width: 311px;
+  height: 194px;
 }
 }
 
-@media all and (max-width: 632px) and (min-width: 582px){
+@media all and (max-width: 345px) and (min-width: 311px) and (orientation: landscape) {
 canvas {
-    width: 523px;
-    height: 326px;
+    width: 279px;
+    height: 174px;
 }
 
 #GameDiv {
-  width: 523px;
-  height: 326px;
+  width: 279px;
+  height: 174px;
 }
 }
 
-@media all and (max-width: 688px) and (min-width: 633px){
+@media all and (max-width: 384px) and (min-width: 346px) and (orientation: portrait) {
 canvas {
-    width: 569px;
-    height: 355px;
+    width: 346px;
+    height: 216px;
 }
 
 #GameDiv {
-  width: 569px;
-  height: 355px;
+  width: 346px;
+  height: 216px;
 }
 }
 
-@media all and (max-width: 748px) and (min-width: 689px){
+@media all and (max-width: 384px) and (min-width: 346px) and (orientation: landscape) {
 canvas {
-    width: 689px;
-    height: 430px;
+    width: 311px;
+    height: 194px;
 }
 
 #GameDiv {
-  width: 689px;
-  height: 430px;
+  width: 311px;
+  height: 194px;
 }
 }
 
-@media all and (max-width: 814px) and (min-width: 749px){
+@media all and (max-width: 427px) and (min-width: 385px) and (orientation: portrait) {
 canvas {
-    width: 749px;
-    height: 468px;
+    width: 385px;
+    height: 240px;
 }
 
 #GameDiv {
-  width: 749px;
-  height: 468px;
+  width: 385px;
+  height: 240px;
 }
 }
 
-@media all and (max-width: 885px) and (min-width: 815px){
+@media all and (max-width: 427px) and (min-width: 385px) and (orientation: landscape) {
 canvas {
-    width: 815px;
-    height: 509px;
+    width: 346px;
+    height: 216px;
 }
 
 #GameDiv {
-  width: 815px;
-  height: 509px;
+  width: 346px;
+  height: 216px;
 }
 }
 
-@media all and (max-width: 962px) and (min-width: 886px){
+@media all and (max-width: 475px) and (min-width: 428px) and (orientation: portrait) {
 canvas {
-    width: 886px;
-    height: 553px;
+    width: 428px;
+    height: 267px;
 }
 
 #GameDiv {
-  width: 886px;
-  height: 553px;
+  width: 428px;
+  height: 267px;
 }
 }
 
-@media all and (max-width: 1046px) and (min-width: 963px){
+@media all and (max-width: 475px) and (min-width: 428px) and (orientation: landscape) {
 canvas {
-    width: 963px;
-    height: 601px;
+    width: 385px;
+    height: 240px;
 }
 
 #GameDiv {
-  width: 963px;
-  height: 601px;
+  width: 385px;
+  height: 240px;
 }
 }
 
-@media all and (max-width: 1138px) and (min-width: 1047px){
+@media all and (max-width: 528px) and (min-width: 476px) and (orientation: portrait) {
 canvas {
-    width: 1047px;
-    height: 654px;
+    width: 476px;
+    height: 297px;
 }
 
 #GameDiv {
-  width: 1047px;
-  height: 654px;
+  width: 476px;
+  height: 297px;
 }
 }
 
-@media all and (max-width: 1237px) and (min-width: 1139px){
+@media all and (max-width: 528px) and (min-width: 476px) and (orientation: landscape) {
 canvas {
-    width: 1139px;
-    height: 711px;
+    width: 428px;
+    height: 267px;
 }
 
 #GameDiv {
-  width: 1139px;
-  height: 711px;
+  width: 428px;
+  height: 267px;
 }
 }
 
-@media all and (max-width: 1345px) and (min-width: 1238px){
+@media all and (max-width: 587px) and (min-width: 529px) and (orientation: portrait) {
 canvas {
-    width: 1238px;
-    height: 773px;
+    width: 529px;
+    height: 330px;
 }
 
 #GameDiv {
-  width: 1238px;
-  height: 773px;
+  width: 529px;
+  height: 330px;
 }
 }
 
-@media all and (max-width: 1480px) and (min-width: 1346px){
+@media all and (max-width: 587px) and (min-width: 529px) and (orientation: landscape) {
 canvas {
-    width: 1346px;
-    height: 841px;
+    width: 476px;
+    height: 297px;
 }
 
 #GameDiv {
-  width: 1346px;
-  height: 841px;
+  width: 476px;
+  height: 297px;
+}
+}
+
+@media all and (max-width: 653px) and (min-width: 588px) and (orientation: portrait) {
+canvas {
+    width: 588px;
+    height: 367px;
+}
+
+#GameDiv {
+  width: 588px;
+  height: 367px;
+}
+}
+
+@media all and (max-width: 653px) and (min-width: 588px) and (orientation: landscape) {
+canvas {
+    width: 529px;
+    height: 330px;
+}
+
+#GameDiv {
+  width: 529px;
+  height: 330px;
+}
+}
+
+@media all and (max-width: 726px) and (min-width: 654px) and (orientation: portrait) {
+canvas {
+    width: 654px;
+    height: 408px;
+}
+
+#GameDiv {
+  width: 654px;
+  height: 408px;
+}
+}
+
+@media all and (max-width: 726px) and (min-width: 654px) and (orientation: landscape) {
+canvas {
+    width: 588px;
+    height: 367px;
+}
+
+#GameDiv {
+  width: 588px;
+  height: 367px;
+}
+}
+
+@media all and (max-width: 807px) and (min-width: 727px) and (orientation: portrait) {
+canvas {
+    width: 727px;
+    height: 454px;
+}
+
+#GameDiv {
+  width: 727px;
+  height: 454px;
+}
+}
+
+@media all and (max-width: 807px) and (min-width: 727px) and (orientation: landscape) {
+canvas {
+    width: 654px;
+    height: 408px;
+}
+
+#GameDiv {
+  width: 654px;
+  height: 408px;
+}
+}
+
+@media all and (max-width: 897px) and (min-width: 808px) and (orientation: portrait) {
+canvas {
+    width: 808px;
+    height: 505px;
+}
+
+#GameDiv {
+  width: 808px;
+  height: 505px;
+}
+}
+
+@media all and (max-width: 897px) and (min-width: 808px) and (orientation: landscape) {
+canvas {
+    width: 727px;
+    height: 454px;
+}
+
+#GameDiv {
+  width: 727px;
+  height: 454px;
+}
+}
+
+@media all and (max-width: 997px) and (min-width: 898px) and (orientation: portrait) {
+canvas {
+    width: 898px;
+    height: 561px;
+}
+
+#GameDiv {
+  width: 898px;
+  height: 561px;
+}
+}
+
+@media all and (max-width: 997px) and (min-width: 898px) and (orientation: landscape) {
+canvas {
+    width: 808px;
+    height: 505px;
+}
+
+#GameDiv {
+  width: 808px;
+  height: 505px;
+}
+}
+
+@media all and (max-width: 1108px) and (min-width: 998px) and (orientation: portrait) {
+canvas {
+    width: 998px;
+    height: 623px;
+}
+
+#GameDiv {
+  width: 998px;
+  height: 623px;
+}
+}
+
+@media all and (max-width: 1108px) and (min-width: 998px) and (orientation: landscape) {
+canvas {
+    width: 898px;
+    height: 561px;
+}
+
+#GameDiv {
+  width: 898px;
+  height: 561px;
+}
+}
+
+@media all and (max-width: 1232px) and (min-width: 1109px) and (orientation: portrait) {
+canvas {
+    width: 1109px;
+    height: 693px;
+}
+
+#GameDiv {
+  width: 1109px;
+  height: 693px;
+}
+}
+
+@media all and (max-width: 1232px) and (min-width: 1109px) and (orientation: landscape) {
+canvas {
+    width: 998px;
+    height: 623px;
+}
+
+#GameDiv {
+  width: 998px;
+  height: 623px;
+}
+}
+
+@media all and (max-width: 1369px) and (min-width: 1233px) {
+canvas {
+    width: 1233px;
+    height: 770px;
+}
+
+#GameDiv {
+  width: 1233px;
+  height: 770px;
+}
+}
+
+@media all and (max-width: 1480px) and (min-width: 1370px) {
+canvas {
+    width: 1370px;
+    height: 856px;
+}
+
+#GameDiv {
+  width: 1370px;
+  height: 856px;
 }
 }
 

@@ -49,26 +49,31 @@
         }
 
         var onStart = function () {
-            //cc.view.resizeWithBrowserSize(true);
-            console.log("ASDFASDFAS")
+            cc.view.resizeWithBrowserSize(true);
             // UC browser on many android devices have performance issue with retina display
-   /*         if (cc.sys.os !== cc.sys.OS_ANDROID || cc.sys.browserType !== cc.sys.BROWSER_TYPE_UC) {
+            if (cc.sys.os !== cc.sys.OS_ANDROID || cc.sys.browserType !== cc.sys.BROWSER_TYPE_UC) {
                 cc.view.enableRetina(true);
-            }   */
+            }
             //cc.view.setDesignResolutionSize(settings.designWidth, settings.designHeight, cc.ResolutionPolicy.SHOW_ALL);
 
             if (cc.sys.isBrowser) {
                 setLoadingDisplay();
             }
 
-            /*if (cc.sys.isMobile) {
+            if (cc.sys.isMobile) {
                 if (settings.orientation === 'landscape') {
                     cc.view.setOrientation(cc.macro.ORIENTATION_LANDSCAPE);
                 }
                 else if (settings.orientation === 'portrait') {
                     cc.view.setOrientation(cc.macro.ORIENTATION_PORTRAIT);
                 }
-            }   */
+                // qq, wechat, baidu
+                cc.view.enableAutoFullScreen(
+                    cc.sys.browserType !== cc.sys.BROWSER_TYPE_BAIDU &&
+                    cc.sys.browserType !== cc.sys.BROWSER_TYPE_WECHAT &&
+                    cc.sys.browserType !== cc.sys.BROWSER_TYPE_MOBILE_QQ
+                );
+            }
 
             // Limit downloading max concurrent task to 2, 
             // more tasks simultaneously may cause performance draw back on some android system / brwosers.

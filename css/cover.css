@@ -43,7 +43,7 @@ html,
 body {
     height: 100%;
  //   background-color: transparent;
-  font-family: 'Fira Sans', sans-serif;    
+  font-family: 'Fira Sans', sans-serif;
     font-size: 14pt;
     position: relative;
     min-width:550px;
@@ -198,6 +198,7 @@ ul {
 .proj-web{
     text-decoration: underline;
     font-weight: 700;
+    font-size:18pt;
     padding-bottom: 7px;
     display: inline;
 }

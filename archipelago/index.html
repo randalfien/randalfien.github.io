@@ -13,8 +13,8 @@
     </script>
   </head>
   <body>
-    <div id = "webglc" class="webgl-content">
-      <div id="gameContainer" style="width: 960px; height: 680px"></div>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 1600px; height: 900px"></div>
       <div class="footer">
         <div class="webgl-logo" style="visibility:hidden"></div>
         <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
@@ -26,12 +26,9 @@
       var e1 = document.getElementById("webglc");
       var w = screen.availWidth*0.9;
       var h = screen.availHeight*0.9;
-      if( w >= 1.76*h ){
+      if( e1.clientHeight >= h ){
         e1.style.height = h;
         e1.style.width = 1.76*h;
-      }else{
-        e1.style.width = w;
-        e1.style.height = 0.56*h;
       }
     </script>
     

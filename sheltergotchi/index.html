@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Sheltergotchi</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 1024px; height: 768px; background: #231F20"></canvas>
+    <script src="Build/build-webgl.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/build-webgl.data.gz",
+        frameworkUrl: "Build/build-webgl.framework.js.gz",
+        codeUrl: "Build/build-webgl.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "Sheltergotchi",
+        productVersion: "0.1",
+      });
+    </script>
+  </body>
+</html>
